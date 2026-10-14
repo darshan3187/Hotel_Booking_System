@@ -18,5 +18,45 @@
     "specialRequests": "Upper floor with courtyard view preferred.",
     "createdAt": "2026-10-14T15:08:29.779Z",
     "updatedAt": "2026-10-14T15:08:29.779Z"
+  },
+  {
+    "_id": "155a8da2a201a79ac31a32a8",
+    "id": "155a8da2a201a79ac31a32a8",
+    "userId": "e71b8f7842d0807e259ce622",
+    "hotelId": "a47320cfe5d063b93e39697d",
+    "roomId": "70fb730ae82ee122b79558b3",
+    "checkIn": "2026-10-15T00:00:00.000Z",
+    "checkOut": "2026-10-17T00:00:00.000Z",
+    "guests": 2,
+    "totalAmount": 39872,
+    "status": "confirmed",
+    "guestDetails": {
+      "name": "Rohan Sharma",
+      "email": "rohan@gmail.com",
+      "phone": "+91 98111 22334"
+    },
+    "specialRequests": "",
+    "createdAt": "2026-10-14T16:45:57.453Z",
+    "updatedAt": "2026-10-14T16:45:57.453Z"
+  },
+  {
+    "_id": "e9971aea7ebdff2784eeaee1",
+    "id": "e9971aea7ebdff2784eeaee1",
+    "userId": "e71b8f7842d0807e259ce622",
+    "hotelId": "95cb75b4ea47246c5a90c7a6",
+    "roomId": "e1f7e25e8a54952409e3d65d",
+    "checkIn": "2026-10-15T00:00:00.000Z",
+    "checkOut": "2026-10-17T00:00:00.000Z",
+    "guests": 2,
+    "totalAmount": 42560,
+    "status": "confirmed",
+    "guestDetails": {
+      "name": "Rohan Sharma",
+      "email": "rohan@gmail.com",
+      "phone": "+91 98111 22334"
+    },
+    "specialRequests": "",
+    "createdAt": "2026-10-14T16:46:55.827Z",
+    "updatedAt": "2026-10-14T16:46:55.827Z"
   }
 ]
