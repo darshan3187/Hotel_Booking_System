@@ -106,6 +106,14 @@
   flex-shrink: 0;
 }
 
+@media (max-width: 480px) {
+  .marquee-review-card {
+    width: clamp(250px, 78vw, 300px);
+    padding: 16px;
+    border-radius: 14px;
+  }
+}
+
 .marquee-review-card:hover {
   transform: translateY(-4px) scale(1.01);
   box-shadow: 0 12px 30px rgba(15, 23, 42, 0.09);

@@ -720,6 +720,22 @@
   }
 }
 
+@media (max-width: 380px) {
+  .about-hero-title {
+    font-size: 26px !important;
+  }
+  .about-stat-number {
+    font-size: 28px !important;
+  }
+  .about-hero-floating-card,
+  .about-philosophy-card,
+  .about-stats-container,
+  .about-cta-card {
+    padding: 20px 14px;
+    border-radius: 16px;
+  }
+}
+
 /* --------------------------------------------------------------------------
    7. REDUCED MOTION PREFERENCE (Accessibility)
    -------------------------------------------------------------------------- */
