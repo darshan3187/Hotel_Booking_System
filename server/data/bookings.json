@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "a0f764b932f427a571f70ee1",
+    "id": "a0f764b932f427a571f70ee1",
+    "userId": "e71b8f7842d0807e259ce622",
+    "hotelId": "beedcc8096b5e1cea151ac90",
+    "roomId": "b3d2f7f33fbfd359b089acdc",
+    "checkIn": "2026-10-19T15:08:29.776Z",
+    "checkOut": "2026-10-22T15:08:29.776Z",
+    "guests": 2,
+    "totalAmount": 19488,
+    "status": "confirmed",
+    "guestDetails": {
+      "name": "Rohan Sharma",
+      "email": "rohan@gmail.com",
+      "phone": "+91 98111 22334"
+    },
+    "specialRequests": "Upper floor with courtyard view preferred.",
+    "createdAt": "2026-10-14T15:08:29.779Z",
+    "updatedAt": "2026-10-14T15:08:29.779Z"
+  }
+]

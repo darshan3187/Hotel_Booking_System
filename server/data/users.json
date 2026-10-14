@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "5aceb2f10923c171352f6b50",
+    "id": "5aceb2f10923c171352f6b50",
+    "name": "Admin Host",
+    "email": "admin@stayease.com",
+    "password": "$2b$10$MFAsgdsq9wWnQ4Eidxlw3eNXO5KToH7K7LEo42LYluGPDmxSbFUu6",
+    "phone": "+91 98765 43210",
+    "role": "admin",
+    "createdAt": "2026-10-14T15:08:28.985Z",
+    "updatedAt": "2026-10-14T15:08:28.985Z"
+  },
+  {
+    "_id": "e71b8f7842d0807e259ce622",
+    "id": "e71b8f7842d0807e259ce622",
+    "name": "Rohan Sharma",
+    "email": "rohan@gmail.com",
+    "password": "$2b$10$mNNEj7.ZhmU3QIBRXla.gu.W.5FNZBfp.2xd165XG47WnHX5NWXwK",
+    "phone": "+91 98111 22334",
+    "role": "user",
+    "createdAt": "2026-10-14T15:08:29.050Z",
+    "updatedAt": "2026-10-14T15:08:29.050Z"
+  }
+]

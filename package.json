@@ -1,0 +1,13 @@
+{
+  "name": "stayease-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "StayEase - Full-Stack Hotel Booking & Management System",
+  "scripts": {
+    "dev": "npm --prefix client run dev",
+    "client": "npm --prefix client run dev",
+    "server": "npm --prefix server run dev",
+    "seed": "npm --prefix server run seed",
+    "build": "npm --prefix client run build"
+  }
+}

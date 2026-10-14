@@ -1,0 +1,1532 @@
+[
+  {
+    "_id": "beedcc8096b5e1cea151ac90",
+    "id": "beedcc8096b5e1cea151ac90",
+    "name": "The House of Mangaldas Girdhardas",
+    "description": "An exquisitely restored 20th-century Indo-Saracenic mansion set around private courtyards and verdant gardens. Enjoy authentic Gujarati fine dining at Agashiye, an indoor lotus pool, and artisanal handwoven textiles reflecting rich cultural legacy.",
+    "location": "Lal Darwaza, Ahmedabad, Gujarat",
+    "address": "Lal Darwaza, Ahmedabad, Gujarat, India",
+    "city": "Ahmedabad",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.92,
+    "reviewsCount": 148,
+    "amenities": [
+      "Free Wi-Fi (150 Mbps)",
+      "Swimming Pool",
+      "Fine Dining Restaurant (Agashiye)",
+      "Spa & Wellness",
+      "Valet Parking",
+      "Climate Control AC",
+      "Heritage Courtyard"
+    ],
+    "startingPrice": 5800,
+    "createdAt": "2026-10-14T15:08:29.052Z",
+    "updatedAt": "2026-10-14T15:08:29.052Z"
+  },
+  {
+    "_id": "e7e3b89bde3b7ba6550355eb",
+    "id": "e7e3b89bde3b7ba6550355eb",
+    "name": "ITC Narmada Luxury Collection",
+    "description": "An architectural tribute to the iconic stepwells and Gujarat art traditions. Features grandiose sun-drenched atriums, royal dining at Peshawri, Olympic-grade pool, and signature Kaya Kalp spa therapies.",
+    "location": "Judges Bunglow Road, Vastrapur, Ahmedabad",
+    "address": "Judges Bunglow Road, Vastrapur, Ahmedabad, India",
+    "city": "Ahmedabad",
+    "images": [
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.94,
+    "reviewsCount": 210,
+    "amenities": [
+      "Stepwell Atrium Pool",
+      "Peshawri Fine Dining",
+      "Kaya Kalp Spa",
+      "Ultra-Fast Wi-Fi",
+      "Valet Parking",
+      "24/7 Concierge"
+    ],
+    "startingPrice": 8900,
+    "createdAt": "2026-10-14T15:08:29.059Z",
+    "updatedAt": "2026-10-14T15:08:29.059Z"
+  },
+  {
+    "_id": "e717df16c5fa35fcd13bc052",
+    "id": "e717df16c5fa35fcd13bc052",
+    "name": "Hyatt Regency Sabarmati Riverfront",
+    "description": "Set on the banks of the scenic Sabarmati Riverfront with sweeping panoramic water views. Features Italian open-kitchen restaurant Tinello, heated lap pool, and light-filled luxury suites.",
+    "location": "Ashram Road, Usmanpura, Ahmedabad",
+    "address": "Ashram Road, Usmanpura, Ahmedabad, India",
+    "city": "Ahmedabad",
+    "images": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.87,
+    "reviewsCount": 185,
+    "amenities": [
+      "Sabarmati River View",
+      "Heated Lap Pool",
+      "Tinello Italian Dining",
+      "24h Fitness Center",
+      "Fast Wi-Fi",
+      "EV Charging"
+    ],
+    "startingPrice": 6500,
+    "createdAt": "2026-10-14T15:08:29.068Z",
+    "updatedAt": "2026-10-14T15:08:29.068Z"
+  },
+  {
+    "_id": "8e3be9c4dac239852e77fa7b",
+    "id": "8e3be9c4dac239852e77fa7b",
+    "name": "French Haveli Heritage Art Stay",
+    "description": "A 150-year-old carved wooden Pol mansion tucked inside UNESCO-listed Old Ahmedabad. Showcases authentic Gujarati rain-harvesting courtyards, hand-painted tiles, and authentic morning heritage walking tours.",
+    "location": "Dhal ni Pol, Khadia, Old Ahmedabad",
+    "address": "Dhal ni Pol, Khadia, Old Ahmedabad, India",
+    "city": "Ahmedabad",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.89,
+    "reviewsCount": 115,
+    "amenities": [
+      "Historic Pol Courtyard",
+      "Artisan Breakfast Included",
+      "Free Wi-Fi",
+      "Heritage Walk Tours",
+      "Terrace Tea Gazebo"
+    ],
+    "startingPrice": 4200,
+    "createdAt": "2026-10-14T15:08:29.078Z",
+    "updatedAt": "2026-10-14T15:08:29.078Z"
+  },
+  {
+    "_id": "6a3cae99133abceed553063f",
+    "id": "6a3cae99133abceed553063f",
+    "name": "Courtyard by Marriott Sindhu Bhavan",
+    "description": "Sleek contemporary luxury positioned along Ahmedabad’s premier lifestyle corridor. Features an elevated swimming pool, artisan coffee house, and contemporary guest sanctuaries designed for seamless relaxation.",
+    "location": "Bodakdev, SG Highway, Ahmedabad",
+    "address": "Bodakdev, SG Highway, Ahmedabad, India",
+    "city": "Ahmedabad",
+    "images": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.84,
+    "reviewsCount": 160,
+    "amenities": [
+      "Elevated Swimming Pool",
+      "24h Fitness Center",
+      "Artisan Coffee Roastery",
+      "High-Speed Wi-Fi",
+      "Valet Parking"
+    ],
+    "startingPrice": 6200,
+    "createdAt": "2026-10-14T15:08:29.084Z",
+    "updatedAt": "2026-10-14T15:08:29.084Z"
+  },
+  {
+    "_id": "eef5b7a784a8886a0516d395",
+    "id": "eef5b7a784a8886a0516d395",
+    "name": "The Oberoi Grand Marine View",
+    "description": "Commanding sweeping views of the Arabian Sea along the Queen’s Necklace. Features floor-to-ceiling windows, Michelin-caliber dining, a temperature-controlled oceanfront pool, and 24-hour personal butler service.",
+    "location": "Nariman Point, Marine Drive, Mumbai",
+    "address": "Nariman Point, Marine Drive, Mumbai, India",
+    "city": "Mumbai",
+    "images": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.96,
+    "reviewsCount": 280,
+    "amenities": [
+      "Oceanfront Pool",
+      "Michelin-Caliber Dining",
+      "Free Wi-Fi (300 Mbps)",
+      "24/7 Butler Service",
+      "Fitness Center & Sauna"
+    ],
+    "startingPrice": 14500,
+    "createdAt": "2026-10-14T15:08:29.090Z",
+    "updatedAt": "2026-10-14T15:08:29.090Z"
+  },
+  {
+    "_id": "95cb75b4ea47246c5a90c7a6",
+    "id": "95cb75b4ea47246c5a90c7a6",
+    "name": "The Taj Mahal Palace & Tower",
+    "description": "The legendary landmark of Indian hospitality since 1903, facing the Gateway of India. Graced by kings, dignitaries, and artists. Home to Wasabi by Morimoto, sea-facing pools, and museum-grade antiques.",
+    "location": "Apollo Bunder, Colaba, Mumbai",
+    "address": "Apollo Bunder, Colaba, Mumbai, India",
+    "city": "Mumbai",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.98,
+    "reviewsCount": 390,
+    "amenities": [
+      "Gateway of India View",
+      "Wasabi Japanese Dining",
+      "Palace Courtyard Pool",
+      "Jiva Spa",
+      "Heritage Butler Service"
+    ],
+    "startingPrice": 19000,
+    "createdAt": "2026-10-14T15:08:29.097Z",
+    "updatedAt": "2026-10-14T15:08:29.097Z"
+  },
+  {
+    "_id": "b9449c8ea6f65b8a98fd5e6b",
+    "id": "b9449c8ea6f65b8a98fd5e6b",
+    "name": "The St. Regis Sky Penthouse Suites",
+    "description": "India’s tallest hotel, situated in Mumbai’s bustling financial center. Features skyline champagne bars, signature St. Regis Butler Service, and high-altitude luxury spa treatments.",
+    "location": "Lower Parel, Mumbai, Maharashtra",
+    "address": "Lower Parel, Mumbai, Maharashtra, India",
+    "city": "Mumbai",
+    "images": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.91,
+    "reviewsCount": 260,
+    "amenities": [
+      "Rooftop Horizon Pool",
+      "Signature Butler Service",
+      "Asilo Rooftop Bar",
+      "Free Wi-Fi (300 Mbps)",
+      "Iridium Spa"
+    ],
+    "startingPrice": 16200,
+    "createdAt": "2026-10-14T15:08:29.104Z",
+    "updatedAt": "2026-10-14T15:08:29.104Z"
+  },
+  {
+    "_id": "62ea3c0f68ab7c2cad70d4bb",
+    "id": "62ea3c0f68ab7c2cad70d4bb",
+    "name": "Soho House Juhu Oceanfront",
+    "description": "An exclusive bohemian member club and boutique hotel overlooking the sands of Juhu Beach. Features custom cane furnishings, Cecconi’s Italian beachside dining, and a rooftop plunge pool facing glorious Arabian sunsets.",
+    "location": "Juhu Tara Road, Juhu Beach, Mumbai",
+    "address": "Juhu Tara Road, Juhu Beach, Mumbai, India",
+    "city": "Mumbai",
+    "images": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.88,
+    "reviewsCount": 175,
+    "amenities": [
+      "Rooftop Sunset Pool",
+      "Cecconi’s Italian Restaurant",
+      "Cowshed Spa",
+      "Private Screening Room",
+      "Direct Beach Access"
+    ],
+    "startingPrice": 17500,
+    "createdAt": "2026-10-14T15:08:29.109Z",
+    "updatedAt": "2026-10-14T15:08:29.109Z"
+  },
+  {
+    "_id": "4db652ae557e34476397017b",
+    "id": "4db652ae557e34476397017b",
+    "name": "JW Marriott Juhu Beach Sanctuary",
+    "description": "A celebrated seaside sanctuary frequented by Bollywood icons. Boasts cascading salt-water lagoon pools framed by towering coconut palms, the award-winning Quan Spa, and lively oceanfront al fresco terraces.",
+    "location": "Juhu Tara Road, Juhu, Mumbai",
+    "address": "Juhu Tara Road, Juhu, Mumbai, India",
+    "city": "Mumbai",
+    "images": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.86,
+    "reviewsCount": 310,
+    "amenities": [
+      "Cascading Lagoon Pools",
+      "Direct Juhu Beach Access",
+      "Quan Luxury Spa",
+      "Lotus Cafe Dining",
+      "Fitness Center"
+    ],
+    "startingPrice": 13800,
+    "createdAt": "2026-10-14T15:08:29.116Z",
+    "updatedAt": "2026-10-14T15:08:29.116Z"
+  },
+  {
+    "_id": "72f685b7a0bd51a79168f4f3",
+    "id": "72f685b7a0bd51a79168f4f3",
+    "name": "Jai Mahal Heritage Palace",
+    "description": "Set amidst 18 acres of landscaped Mughal gardens dating back to 1745. Experience royal Rajasthani hospitality, grand marble arches, peacock sightings, and traditional folk music under the stars.",
+    "location": "Civil Lines, Jaipur, Rajasthan",
+    "address": "Civil Lines, Jaipur, Rajasthan, India",
+    "city": "Jaipur",
+    "images": [
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.95,
+    "reviewsCount": 195,
+    "amenities": [
+      "Swimming Pool",
+      "Spa & Wellness",
+      "Free Wi-Fi",
+      "Fine Dining Restaurant",
+      "Mughal Gardens",
+      "Folk Cultural Shows"
+    ],
+    "startingPrice": 9400,
+    "createdAt": "2026-10-14T15:08:29.124Z",
+    "updatedAt": "2026-10-14T15:08:29.124Z"
+  },
+  {
+    "_id": "09c895c84f95c490abe5347f",
+    "id": "09c895c84f95c490abe5347f",
+    "name": "Rambagh Palace The Jewel of Jaipur",
+    "description": "Voted repeatedly among the world’s finest heritage hotels. Formerly the residence of the Maharaja of Jaipur. Features 47 acres of tranquil gardens, ornate marble corridors, peacock courtyards, and royal carriage rides.",
+    "location": "Bhawani Singh Road, Jaipur, Rajasthan",
+    "address": "Bhawani Singh Road, Jaipur, Rajasthan, India",
+    "city": "Jaipur",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.99,
+    "reviewsCount": 340,
+    "amenities": [
+      "Indoor & Outdoor Pools",
+      "Suvarna Mahal Royal Dining",
+      "Jiva Grande Spa",
+      "Polo Bar",
+      "Vintage Horse Carriage Rides"
+    ],
+    "startingPrice": 28000,
+    "createdAt": "2026-10-14T15:08:29.137Z",
+    "updatedAt": "2026-10-14T15:08:29.137Z"
+  },
+  {
+    "_id": "586068359fe8513981138c6f",
+    "id": "586068359fe8513981138c6f",
+    "name": "Sujan Rajmahal Palace",
+    "description": "An Art Deco royal residence with vibrant floral wallpaper, marble colonnaded gardens, and bespoke polo heritage suites.",
+    "location": "Sardar Patel Marg, C Scheme, Jaipur",
+    "address": "Sardar Patel Marg, C Scheme, Jaipur, India",
+    "city": "Jaipur",
+    "images": [
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.93,
+    "reviewsCount": 112,
+    "amenities": [
+      "Art Deco Bar",
+      "Royal Gardens",
+      "High Tea Veranda",
+      "Free Wi-Fi",
+      "Butler Service"
+    ],
+    "startingPrice": 18500,
+    "createdAt": "2026-10-14T15:08:29.145Z",
+    "updatedAt": "2026-10-14T15:08:29.145Z"
+  },
+  {
+    "_id": "a86270453bdcc39d53ce1691",
+    "id": "a86270453bdcc39d53ce1691",
+    "name": "Samode Haveli Heritage Residence",
+    "description": "A 175-year-old aristocratic manor reflecting traditional Rajput architecture. Features hand-painted floral arches, a mosaic courtyard pool, and serene fountains tucked within the ancient city ramparts.",
+    "location": "Gangapole, Old City, Jaipur",
+    "address": "Gangapole, Old City, Jaipur, India",
+    "city": "Jaipur",
+    "images": [
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.88,
+    "reviewsCount": 165,
+    "amenities": [
+      "Mosaic Courtyard Pool",
+      "Fresco Dining Dining Room",
+      "Spa & Steam Room",
+      "Free Wi-Fi",
+      "Fountain Verandas"
+    ],
+    "startingPrice": 8600,
+    "createdAt": "2026-10-14T15:08:29.151Z",
+    "updatedAt": "2026-10-14T15:08:29.151Z"
+  },
+  {
+    "_id": "a8a81bf24b455ed75caf7461",
+    "id": "a8a81bf24b455ed75caf7461",
+    "name": "The Leela Palace Amber Valley",
+    "description": "A grand palatial sanctuary set against the backdrop of the rugged Aravalli hills near Amer Fort. Features private plunge pool villas, mirror-work dining at Mohan Mahal, and courtyard fountains.",
+    "location": "Delhi-Jaipur Highway, Kukas, Jaipur",
+    "address": "Delhi-Jaipur Highway, Kukas, Jaipur, India",
+    "city": "Jaipur",
+    "images": [
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.96,
+    "reviewsCount": 220,
+    "amenities": [
+      "Private Plunge Pool Villas",
+      "Mohan Mahal Candlelight Dining",
+      "Aravalli Hills Panorama",
+      "Luxury Spa",
+      "Butler Service"
+    ],
+    "startingPrice": 15200,
+    "createdAt": "2026-10-14T15:08:29.192Z",
+    "updatedAt": "2026-10-14T15:08:29.192Z"
+  },
+  {
+    "_id": "25cd3a44967ec6ff97cb284b",
+    "id": "25cd3a44967ec6ff97cb284b",
+    "name": "Taj Fort Aguada Beach Resort",
+    "description": "Built into the ramparts of a 16th-century Portuguese fortress overlooking the azure Arabian Sea. Terraced gardens, private beach access, water sports, and sunset cocktail lounges.",
+    "location": "Sinquerim, Candolim, North Goa",
+    "address": "Sinquerim, Candolim, North Goa, India",
+    "city": "Goa",
+    "images": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.86,
+    "reviewsCount": 310,
+    "amenities": [
+      "Private Beach Access",
+      "Swimming Pool",
+      "Free Wi-Fi",
+      "Fitness Center",
+      "Spa & Wellness",
+      "Water Sports Desk"
+    ],
+    "startingPrice": 8500,
+    "createdAt": "2026-10-14T15:08:29.204Z",
+    "updatedAt": "2026-10-14T15:08:29.204Z"
+  },
+  {
+    "_id": "fc660ff4289b209e6a6415bf",
+    "id": "fc660ff4289b209e6a6415bf",
+    "name": "Alila Diwa Oceanfront Sanctuary",
+    "description": "Surrounded by verdant paddy fields extending towards the Arabian Sea. Features an iconic infinity pool reflecting towering coconut palms and Goan teak wood architecture.",
+    "location": "Majorda Beach, South Goa",
+    "address": "Majorda Beach, South Goa, India",
+    "city": "Goa",
+    "images": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.84,
+    "reviewsCount": 154,
+    "amenities": [
+      "Paddy View Infinity Pool",
+      "Spa & Wellness",
+      "Shuttle to Majorda Beach",
+      "Free Wi-Fi",
+      "Kids Club"
+    ],
+    "startingPrice": 7800,
+    "createdAt": "2026-10-14T15:08:29.213Z",
+    "updatedAt": "2026-10-14T15:08:29.213Z"
+  },
+  {
+    "_id": "ac903ef59e58df3d32ed4161",
+    "id": "ac903ef59e58df3d32ed4161",
+    "name": "W Goa Vagator Coastal Retreat",
+    "description": "Perched on the cliffs of Vagator Beach beneath Chapora Fort. Features vibrant avant-garde design, the renowned Rock Pool amphitheatre for sunset DJ sessions, and direct coastal access.",
+    "location": "Vagator Beach, Bardez, North Goa",
+    "address": "Vagator Beach, Bardez, North Goa, India",
+    "city": "Goa",
+    "images": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 240,
+    "amenities": [
+      "Rock Pool Sunset Lounge",
+      "Direct Vagator Beach Access",
+      "AWAY Spa",
+      "Spice Traders Pan-Asian",
+      "24h FIT Gym"
+    ],
+    "startingPrice": 14000,
+    "createdAt": "2026-10-14T15:08:29.221Z",
+    "updatedAt": "2026-10-14T15:08:29.221Z"
+  },
+  {
+    "_id": "47833f770b15715bd0d30f37",
+    "id": "47833f770b15715bd0d30f37",
+    "name": "Ahilya by the Sea Boutique Manor",
+    "description": "An intimate, quiet sanctuary tucked away at the edge of Dolphin Bay. Nine individually styled rooms across three Portuguese villas with two sunrise infinity pools right at the ocean’s edge.",
+    "location": "Nerul, Dolphin Bay, North Goa",
+    "address": "Nerul, Dolphin Bay, North Goa, India",
+    "city": "Goa",
+    "images": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.95,
+    "reviewsCount": 95,
+    "amenities": [
+      "Oceanfront Infinity Pools",
+      "Dolphin Watching at Sunrise",
+      "Bespoke Goan Dining",
+      "Art & Antiques Collection",
+      "Treehouse Wellness"
+    ],
+    "startingPrice": 16500,
+    "createdAt": "2026-10-14T15:08:29.231Z",
+    "updatedAt": "2026-10-14T15:08:29.231Z"
+  },
+  {
+    "_id": "3b0804cbf8c0fcc0fc0bb5ea",
+    "id": "3b0804cbf8c0fcc0fc0bb5ea",
+    "name": "The Postcard Cavelossim Lotus Estate",
+    "description": "A quiet, unhurried boutique retreat surrounded by pristine lotus lagoons and coconut groves in South Goa. Anytime check-in, artisanal coastal breakfast served whenever you awake, and personalized Ayurvedic care.",
+    "location": "Cavelossim, Salcete, South Goa",
+    "address": "Cavelossim, Salcete, South Goa, India",
+    "city": "Goa",
+    "images": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.92,
+    "reviewsCount": 88,
+    "amenities": [
+      "Lotus Lagoon Views",
+      "Anytime Artisanal Breakfast",
+      "Private Saltwater Pool",
+      "Bicycle Tours to Cavelossim Beach",
+      "Ayurvedic Consultations"
+    ],
+    "startingPrice": 11200,
+    "createdAt": "2026-10-14T15:08:29.241Z",
+    "updatedAt": "2026-10-14T15:08:29.241Z"
+  },
+  {
+    "_id": "77661b78ffd396c5fe8fe984",
+    "id": "77661b78ffd396c5fe8fe984",
+    "name": "The Imperial Heritage Sanctuary",
+    "description": "An iconic landmark in the heart of the capital combining Victorian elegance with Art Deco detail. Home to museum-quality art collections, award-winning culinary venues, and serene palm courtyards.",
+    "location": "Janpath, Connaught Place, New Delhi",
+    "address": "Janpath, Connaught Place, New Delhi, India",
+    "city": "Delhi",
+    "images": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.89,
+    "reviewsCount": 165,
+    "amenities": [
+      "Spa & Wellness",
+      "Fine Dining Restaurant",
+      "Free Wi-Fi",
+      "Free Parking",
+      "Art Gallery Lounge",
+      "Outdoor Pool"
+    ],
+    "startingPrice": 11000,
+    "createdAt": "2026-10-14T15:08:29.249Z",
+    "updatedAt": "2026-10-14T15:08:29.249Z"
+  },
+  {
+    "_id": "a47320cfe5d063b93e39697d",
+    "id": "a47320cfe5d063b93e39697d",
+    "name": "The Leela Palace Chanakyapuri",
+    "description": "The sole modern palace hotel in the capital, inspired by Lutyens architecture. Features India’s highest rooftop infinity pool overlooking city monuments, MEGU Japanese dining, and museum-grade Indian artwork.",
+    "location": "Diplomatic Enclave, Chanakyapuri, New Delhi",
+    "address": "Diplomatic Enclave, Chanakyapuri, New Delhi, India",
+    "city": "Delhi",
+    "images": [
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.97,
+    "reviewsCount": 310,
+    "amenities": [
+      "Rooftop Skyline Infinity Pool",
+      "MEGU Japanese Restaurant",
+      "Le Cirque French Dining",
+      "ESPA Spa",
+      "Royal Butler Service"
+    ],
+    "startingPrice": 17800,
+    "createdAt": "2026-10-14T15:08:29.256Z",
+    "updatedAt": "2026-10-14T15:08:29.256Z"
+  },
+  {
+    "_id": "89c952bd95e73f026e230b8a",
+    "id": "89c952bd95e73f026e230b8a",
+    "name": "The Lodhi Luxury Enclave",
+    "description": "Originally conceived as an Aman resort, offering unmatched minimalist understated luxury. Boasts private plunge pools in almost every suite, 7 acres of manicured eucalyptus grounds, and a championship tennis facility.",
+    "location": "Lodhi Road, Near Golf Club, New Delhi",
+    "address": "Lodhi Road, Near Golf Club, New Delhi, India",
+    "city": "Delhi",
+    "images": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.93,
+    "reviewsCount": 225,
+    "amenities": [
+      "In-Room Private Plunge Pools",
+      "Olympic Lap Pool",
+      "The Lodhi Spa & Turkish Hammam",
+      "Tennis & Squash Courts",
+      "Élan Fine Dining"
+    ],
+    "startingPrice": 15500,
+    "createdAt": "2026-10-14T15:08:29.261Z",
+    "updatedAt": "2026-10-14T15:08:29.261Z"
+  },
+  {
+    "_id": "801d8c6a09dee92d91d34707",
+    "id": "801d8c6a09dee92d91d34707",
+    "name": "ITC Maurya Presidential Suites",
+    "description": "A favorite of world leaders and global diplomats. Home to the legendary Dal Bukhara restaurant, iconic Mauryan art installations, and LEED Platinum certified sustainable luxury.",
+    "location": "Sardar Patel Marg, Diplomatic Enclave, New Delhi",
+    "address": "Sardar Patel Marg, Diplomatic Enclave, New Delhi, India",
+    "city": "Delhi",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.88,
+    "reviewsCount": 290,
+    "amenities": [
+      "Bukhara Tandoori Restaurant",
+      "Dum Pukht Royal Awadhi",
+      "Kaya Kalp Spa",
+      "Lush Forest Ridge Views",
+      "Green Luxury Certified"
+    ],
+    "startingPrice": 12800,
+    "createdAt": "2026-10-14T15:08:29.270Z",
+    "updatedAt": "2026-10-14T15:08:29.270Z"
+  },
+  {
+    "_id": "4b8902021794bae152cf92e2",
+    "id": "4b8902021794bae152cf92e2",
+    "name": "Haveli Dharampura Heritage Sanctuary",
+    "description": "Winner of the UNESCO Asia-Pacific Heritage Award. A painstakingly restored late-Mughal haveli in the heart of Chandni Chowk, featuring central sandstone courtyards, classical Kathak recitals, and rooftop views of Jama Masjid.",
+    "location": "Gali Guliyan, Chandni Chowk, Old Delhi",
+    "address": "Gali Guliyan, Chandni Chowk, Old Delhi, India",
+    "city": "Delhi",
+    "images": [
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.87,
+    "reviewsCount": 130,
+    "amenities": [
+      "Jama Masjid Rooftop View",
+      "Classical Kathak Performances",
+      "Lakhori Mughlai Dining",
+      "Pigeon Flying Displays",
+      "Heritage Walks"
+    ],
+    "startingPrice": 7900,
+    "createdAt": "2026-10-14T15:08:29.279Z",
+    "updatedAt": "2026-10-14T15:08:29.279Z"
+  },
+  {
+    "_id": "d8349f2e968b09d600aa70ba",
+    "id": "d8349f2e968b09d600aa70ba",
+    "name": "Lake Pichola Boutique Palace",
+    "description": "Surrounded by the calm waters of Lake Pichola with majestic views of the City Palace and Jag Mandir. Features private boat arrivals, rooftop candlelit dining, and infinity pool reflections.",
+    "location": "Lake Pichola Banks, Udaipur, Rajasthan",
+    "address": "Lake Pichola Banks, Udaipur, Rajasthan, India",
+    "city": "Udaipur",
+    "images": [
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.98,
+    "reviewsCount": 284,
+    "amenities": [
+      "Infinity Pool",
+      "Courtyard Dining",
+      "Free Wi-Fi",
+      "Spa & Wellness",
+      "Private Boat Transfers",
+      "Rooftop Lounge"
+    ],
+    "startingPrice": 13500,
+    "createdAt": "2026-10-14T15:08:29.287Z",
+    "updatedAt": "2026-10-14T15:08:29.287Z"
+  },
+  {
+    "_id": "d188d165535a32c5d4a13de3",
+    "id": "d188d165535a32c5d4a13de3",
+    "name": "The Oberoi Udaivilas Lake Palace",
+    "description": "Frequently recognized as the pinnacle of luxury hospitality globally. Features interconnected dome corridors, semi-private swimming pools wrapped around guest rooms, and private peacocks roaming manicured gardens.",
+    "location": "Haridas Ji Ki Magri, Lake Pichola, Udaipur",
+    "address": "Haridas Ji Ki Magri, Lake Pichola, Udaipur, India",
+    "city": "Udaipur",
+    "images": [
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.99,
+    "reviewsCount": 395,
+    "amenities": [
+      "Semi-Private Moat Pools",
+      "Lake Pichola Solar Boat Cruises",
+      "The Oberoi Spa",
+      "Udaimahal Royal Dining",
+      "Private Yoga Pavilion"
+    ],
+    "startingPrice": 32000,
+    "createdAt": "2026-10-14T15:08:29.297Z",
+    "updatedAt": "2026-10-14T15:08:29.297Z"
+  },
+  {
+    "_id": "cd40956455a96d2c4c00a86c",
+    "id": "cd40956455a96d2c4c00a86c",
+    "name": "Taj Lake Palace Floating Marble Marvel",
+    "description": "An iconic 18th-century white marble pleasure palace appearing to float ethereally upon Lake Pichola. Accessible exclusively by private royal barge, with Mewari butler service and lily pond courtyards.",
+    "location": "Lake Pichola Center, Udaipur, Rajasthan",
+    "address": "Lake Pichola Center, Udaipur, Rajasthan, India",
+    "city": "Udaipur",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.98,
+    "reviewsCount": 360,
+    "amenities": [
+      "Exclusive Royal Barge Arrival",
+      "Jharokha Lake Dining",
+      "Jiva Spa Boat",
+      "Lily Pond Courtyard",
+      "Royal Mewari Butler"
+    ],
+    "startingPrice": 29500,
+    "createdAt": "2026-10-14T15:08:29.308Z",
+    "updatedAt": "2026-10-14T15:08:29.308Z"
+  },
+  {
+    "_id": "9b23de751503dded88eb2799",
+    "id": "9b23de751503dded88eb2799",
+    "name": "Fateh Garh Heritage Fort Sanctuary",
+    "description": "Perched on a hilltop with 360-degree views of the Aravalli mountain range and the lakes of Udaipur. Built using vintage stone recycling and green energy principles.",
+    "location": "Sisarma, Udaipur, Rajasthan",
+    "address": "Sisarma, Udaipur, Rajasthan, India",
+    "city": "Udaipur",
+    "images": [
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.85,
+    "reviewsCount": 128,
+    "amenities": [
+      "Hilltop Dual Pools",
+      "Vintage Car Museum",
+      "Organic Dining",
+      "Free Wi-Fi",
+      "Aravalli Views"
+    ],
+    "startingPrice": 8200,
+    "createdAt": "2026-10-14T15:08:29.322Z",
+    "updatedAt": "2026-10-14T15:08:29.322Z"
+  },
+  {
+    "_id": "fc3e9a757dc90bc7bddc754f",
+    "id": "fc3e9a757dc90bc7bddc754f",
+    "name": "RAAS Devigarh Fortress Palace",
+    "description": "An 18th-century Rajput palace fortress heroically restored with sleek, minimalist white marble interiors. Perched dramatically above the village of Delwara in the Aravalli hills.",
+    "location": "Delwara, NH-8, Near Udaipur, Rajasthan",
+    "address": "Delwara, NH-8, Near Udaipur, Rajasthan, India",
+    "city": "Udaipur",
+    "images": [
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.92,
+    "reviewsCount": 155,
+    "amenities": [
+      "Clifftop Infinity Pool",
+      "Green Marble Spa",
+      "Rooftop Camelot Dining",
+      "Private Courtyards",
+      "Morning Hilltop Yoga"
+    ],
+    "startingPrice": 16800,
+    "createdAt": "2026-10-14T15:08:29.335Z",
+    "updatedAt": "2026-10-14T15:08:29.335Z"
+  },
+  {
+    "_id": "e847622435e49fa04a24848a",
+    "id": "e847622435e49fa04a24848a",
+    "name": "BrijRama Palace - On the Ganges",
+    "description": "A 210-year-old palace situated directly on the sacred Darbhanga Ghat. Arrive via private boat, soak in morning raga music on the riverfront terrace, and sample refined vegetarian feasts.",
+    "location": "Darbhanga Ghat, Varanasi, Uttar Pradesh",
+    "address": "Darbhanga Ghat, Varanasi, Uttar Pradesh, India",
+    "city": "Varanasi",
+    "images": [
+      "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.96,
+    "reviewsCount": 142,
+    "amenities": [
+      "Ghat River View",
+      "Traditional Vegetarian Dining",
+      "Free Wi-Fi",
+      "Private Boat Transfers",
+      "Yoga & Meditation Deck",
+      "Live Classical Music"
+    ],
+    "startingPrice": 14200,
+    "createdAt": "2026-10-14T15:08:29.346Z",
+    "updatedAt": "2026-10-14T15:08:29.346Z"
+  },
+  {
+    "_id": "7e867f1791506e372bf18ae2",
+    "id": "7e867f1791506e372bf18ae2",
+    "name": "Taj Nadesar Palace Royal Retreat",
+    "description": "Nestled among peaceful mango orchards, marigold fields, and jasmine gardens. Originally the home of the Maharaja of Benares, hosting royalty since 1835. Boasts only 10 exclusive palace rooms.",
+    "location": "Nadesar, Varanasi, Uttar Pradesh",
+    "address": "Nadesar, Varanasi, Uttar Pradesh, India",
+    "city": "Varanasi",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.97,
+    "reviewsCount": 180,
+    "amenities": [
+      "Mango Orchard Grounds",
+      "Jiva Spa Sanctuary",
+      "Outdoor Palace Pool",
+      "Horse Carriage Rides",
+      "Private Maharaja Butler"
+    ],
+    "startingPrice": 18000,
+    "createdAt": "2026-10-14T15:08:29.355Z",
+    "updatedAt": "2026-10-14T15:08:29.355Z"
+  },
+  {
+    "_id": "262340d33d7638bddfbdab42",
+    "id": "262340d33d7638bddfbdab42",
+    "name": "Guleria Kothi Riverfront Haveli",
+    "description": "Built of sandstone on the edge of Guleria Ghat in the 18th century. Features arched colonnades, rooftop dining at Cafe Kothi overlooking the Ganges, and boat docking right at its front stone steps.",
+    "location": "Guleria Ghat, Varanasi, Uttar Pradesh",
+    "address": "Guleria Ghat, Varanasi, Uttar Pradesh, India",
+    "city": "Varanasi",
+    "images": [
+      "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.88,
+    "reviewsCount": 120,
+    "amenities": [
+      "Rooftop Ganges Terrace",
+      "Private Ghat Boat Dock",
+      "Cafe Kothi Fine Dining",
+      "Free High-Speed Wi-Fi",
+      "Yoga Deck"
+    ],
+    "startingPrice": 9500,
+    "createdAt": "2026-10-14T15:08:29.365Z",
+    "updatedAt": "2026-10-14T15:08:29.365Z"
+  },
+  {
+    "_id": "0de495e59f1fee65837bc0ca",
+    "id": "0de495e59f1fee65837bc0ca",
+    "name": "Amritara Suryauday Haveli",
+    "description": "Built in early 20th century by the Royal Family of Nepal as a spiritual retreat. Features courtyards filled with morning sunlight, rooftop yoga, and unhurried access to the vibrant steps of Shivala Ghat.",
+    "location": "Shivala Ghat, Varanasi, Uttar Pradesh",
+    "address": "Shivala Ghat, Varanasi, Uttar Pradesh, India",
+    "city": "Varanasi",
+    "images": [
+      "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.86,
+    "reviewsCount": 110,
+    "amenities": [
+      "Sunrise River Rooftop",
+      "Ayurvedic Massage Therapy",
+      "Shivala Ghat Access",
+      "Complimentary Evening Aarti Tour",
+      "Free Wi-Fi"
+    ],
+    "startingPrice": 8800,
+    "createdAt": "2026-10-14T15:08:29.376Z",
+    "updatedAt": "2026-10-14T15:08:29.376Z"
+  },
+  {
+    "_id": "40cde7236037a64a223a35b8",
+    "id": "40cde7236037a64a223a35b8",
+    "name": "Tree of Life Resort & Spa Varanasi",
+    "description": "A tranquil countryside retreat set in lush gardens outside the bustling city core. Features private junior suites with private lawns, architectural ponds with water lilies, and open-air dining under banyan trees.",
+    "location": "Babarpur, Mirzapur Road, Varanasi",
+    "address": "Babarpur, Mirzapur Road, Varanasi, India",
+    "city": "Varanasi",
+    "images": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.84,
+    "reviewsCount": 92,
+    "amenities": [
+      "Private Garden Lawns",
+      "Outdoor Swimming Pool",
+      "Sukha Spa Sanctuary",
+      "Complimentary City Shuttles",
+      "Organic Farm Dining"
+    ],
+    "startingPrice": 7200,
+    "createdAt": "2026-10-14T15:08:29.386Z",
+    "updatedAt": "2026-10-14T15:08:29.386Z"
+  },
+  {
+    "_id": "2a121f0afb4895c615ad0d41",
+    "id": "2a121f0afb4895c615ad0d41",
+    "name": "Kumarakom Lake Resort & Water Villas",
+    "description": "Winner of international heritage awards, featuring reconstructed 16th-century Kerala illam homesteads. Meandering pool bedrooms, traditional houseboats, and authentic Keralite Ayurveda treatments.",
+    "location": "Vembanad Lake, Kumarakom, Kerala",
+    "address": "Vembanad Lake, Kumarakom, Kerala, India",
+    "city": "Kerala",
+    "images": [
+      "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.91,
+    "reviewsCount": 215,
+    "amenities": [
+      "Meandering Pool Access",
+      "Ayurvedic Wellness Center",
+      "Sunset Backwater Cruise",
+      "Free Wi-Fi",
+      "Seafood Specialty Dining",
+      "Fishing & Canoeing"
+    ],
+    "startingPrice": 15000,
+    "createdAt": "2026-10-14T15:08:29.397Z",
+    "updatedAt": "2026-10-14T15:08:29.397Z"
+  },
+  {
+    "_id": "337e0a8c037d98cdbc74ec0d",
+    "id": "337e0a8c037d98cdbc74ec0d",
+    "name": "Brunton Boatyard Heritage Manor",
+    "description": "Built on the site of a historic 19th-century Victorian shipyard facing Kochi harbour. Blends Dutch, Portuguese, and British colonial maritime aesthetics with views of passing ships and diving dolphins.",
+    "location": "Calvathy Road, Fort Kochi, Kerala",
+    "address": "Calvathy Road, Fort Kochi, Kerala, India",
+    "city": "Kerala",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.89,
+    "reviewsCount": 160,
+    "amenities": [
+      "Harbour Sunset Pool",
+      "Armoury Bar Maritime Heritage",
+      "History of Times Restaurant",
+      "Daily Sunset Harbor Cruises",
+      "Ayurveda Spa"
+    ],
+    "startingPrice": 11500,
+    "createdAt": "2026-10-14T15:08:29.406Z",
+    "updatedAt": "2026-10-14T15:08:29.406Z"
+  },
+  {
+    "_id": "651ea4962eebe2954c8b24ad",
+    "id": "651ea4962eebe2954c8b24ad",
+    "name": "Niraamaya Retreats Surya Samudra",
+    "description": "Clifftop sanctuary set on private headlands overlooking two secluded beaches in South Kerala. Traditional Keralite wooden cottages tucked under coconut palms, with an iconic cliff-edge ocean infinity pool.",
+    "location": "Pulinkudi, Mullur, Kovalam Cliff, Kerala",
+    "address": "Pulinkudi, Mullur, Kovalam Cliff, Kerala, India",
+    "city": "Kerala",
+    "images": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.94,
+    "reviewsCount": 185,
+    "amenities": [
+      "Cliff-Edge Ocean Infinity Pool",
+      "World-Class Niraamaya Spa",
+      "Direct Secluded Beach Access",
+      "Catch of the Day Dining",
+      "Yoga Cliff Platform"
+    ],
+    "startingPrice": 16800,
+    "createdAt": "2026-10-14T15:08:29.415Z",
+    "updatedAt": "2026-10-14T15:08:29.415Z"
+  },
+  {
+    "_id": "152c5feb14bed6326e0731e5",
+    "id": "152c5feb14bed6326e0731e5",
+    "name": "Spice Village Periyar Eco Sanctuary",
+    "description": "Designed as a traditional tribal mountain village in the cardamom hills near Periyar National Park. Cottages thatched with elephant grass, aromatic spice gardens, and guided bird-watching safaris.",
+    "location": "Thekkady, Idukki District, Kerala",
+    "address": "Thekkady, Idukki District, Kerala, India",
+    "city": "Kerala",
+    "images": [
+      "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.87,
+    "reviewsCount": 140,
+    "amenities": [
+      "Organic Farm Kitchen",
+      "Periyar Wildlife Sanctuary Treks",
+      "Spice Plantation Walks",
+      "Swimming Pool",
+      "Ayurveda Center"
+    ],
+    "startingPrice": 9200,
+    "createdAt": "2026-10-14T15:08:29.425Z",
+    "updatedAt": "2026-10-14T15:08:29.425Z"
+  },
+  {
+    "_id": "cdf5dc8fe862f56e8da5cd73",
+    "id": "cdf5dc8fe862f56e8da5cd73",
+    "name": "The Windflower Resort & Spa Vythiri",
+    "description": "Nestled in the lush rainforests and tea hills of Wayanad, surrounded by rolling fog and cascading mountain streams. Features villas with open-air Jacuzzis and authentic Ayurvedic rejuvenating therapies.",
+    "location": "Pozhuthana, Vythiri, Wayanad, Kerala",
+    "address": "Pozhuthana, Vythiri, Wayanad, Kerala, India",
+    "city": "Kerala",
+    "images": [
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.88,
+    "reviewsCount": 135,
+    "amenities": [
+      "Tea Plantation Infinity Pool",
+      "Rainforest Ayurvedic Spa",
+      "Mountain Stream Walks",
+      "Open-Air Jacuzzi Villas",
+      "Complimentary High Tea"
+    ],
+    "startingPrice": 8400,
+    "createdAt": "2026-10-14T15:08:29.436Z",
+    "updatedAt": "2026-10-14T15:08:29.436Z"
+  },
+  {
+    "_id": "b8033b326f2bbdf18401cb94",
+    "id": "b8033b326f2bbdf18401cb94",
+    "name": "Wildflower Hall Alpine Resort",
+    "description": "Nestled 8,250 feet up in the Himalayas among dense deodar forests. Features an outdoor heated open-air whirlpool with snow-capped peak views, wood-burning fireplaces, and alpine pine scents.",
+    "location": "Chharabra, Shimla, Himachal Pradesh",
+    "address": "Chharabra, Shimla, Himachal Pradesh, India",
+    "city": "Shimla",
+    "images": [
+      "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.94,
+    "reviewsCount": 178,
+    "amenities": [
+      "Heated Outdoor Infinity Whirlpool",
+      "Himalayan Mountain Views",
+      "Fireplace Suites",
+      "Full Service Spa",
+      "Free Wi-Fi",
+      "Trekking & Nature Trails"
+    ],
+    "startingPrice": 16800,
+    "createdAt": "2026-10-14T15:08:29.546Z",
+    "updatedAt": "2026-10-14T15:08:29.546Z"
+  },
+  {
+    "_id": "0fa10c02dc45d4859b441366",
+    "id": "0fa10c02dc45d4859b441366",
+    "name": "The Oberoi Cecil Heritage Hotel",
+    "description": "A celebrated British colonial landmark founded in 1884. Boasts a grand multi-storey glass atrium, indoor heated swimming pool, wood-panelled ballrooms, and breathtaking views over the Shimla valley.",
+    "location": "Chaura Maidan, Shimla, Himachal Pradesh",
+    "address": "Chaura Maidan, Shimla, Himachal Pradesh, India",
+    "city": "Shimla",
+    "images": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.93,
+    "reviewsCount": 220,
+    "amenities": [
+      "Grand Glass Atrium",
+      "Indoor Heated Swimming Pool",
+      "The Oberoi Spa",
+      "Children’s Activity Centre",
+      "Valley View Restaurant"
+    ],
+    "startingPrice": 13500,
+    "createdAt": "2026-10-14T15:08:29.589Z",
+    "updatedAt": "2026-10-14T15:08:29.589Z"
+  },
+  {
+    "_id": "e720b4d997d0a598b2a6888c",
+    "id": "e720b4d997d0a598b2a6888c",
+    "name": "Clarkes Heritage Hotel Mall Road",
+    "description": "One of India’s oldest heritage hotels, located directly on pedestrian Mall Road. Built in 1898 with distinctive Tudor-style timber framing, French windows, and classic Himalayan hospitality.",
+    "location": "Mall Road, Shimla, Himachal Pradesh",
+    "address": "Mall Road, Shimla, Himachal Pradesh, India",
+    "city": "Shimla",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.86,
+    "reviewsCount": 145,
+    "amenities": [
+      "Direct Mall Road Access",
+      "1898 Dining Hall",
+      "Cocktail Terrace Lounge",
+      "Free Wi-Fi",
+      "Library Lounge"
+    ],
+    "startingPrice": 8900,
+    "createdAt": "2026-10-14T15:08:29.597Z",
+    "updatedAt": "2026-10-14T15:08:29.597Z"
+  },
+  {
+    "_id": "5261c786314fc66c068f1114",
+    "id": "5261c786314fc66c068f1114",
+    "name": "Woodville Palace Heritage Retreat",
+    "description": "The former country home of the Jubbal royal family set within 4 acres of secluded pine grounds. Featured in classic Indian cinema, with 1930s Hollywood memorabilia and vintage art.",
+    "location": "Raj Bhavan Road, Shimla, Himachal Pradesh",
+    "address": "Raj Bhavan Road, Shimla, Himachal Pradesh, India",
+    "city": "Shimla",
+    "images": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.83,
+    "reviewsCount": 110,
+    "amenities": [
+      "4-Acre Pine Estate",
+      "The Hollywood 1930s Bar",
+      "Imperial Banquet Hall",
+      "Badminton & Croquet Lawns",
+      "Bonfire Evenings"
+    ],
+    "startingPrice": 7800,
+    "createdAt": "2026-10-14T15:08:29.613Z",
+    "updatedAt": "2026-10-14T15:08:29.613Z"
+  },
+  {
+    "_id": "0c7fc929b55da09e628f62ff",
+    "id": "0c7fc929b55da09e628f62ff",
+    "name": "Chalets Naldehra Cedar Haven",
+    "description": "Handcrafted Scandinavian log cabins nestled among ancient deodars beside Asia’s oldest 9-hole golf course. Features 360-degree glass dining gazebos, an indoor heated pool, and horse-riding trails.",
+    "location": "Naldehra, Shimla, Himachal Pradesh",
+    "address": "Naldehra, Shimla, Himachal Pradesh, India",
+    "city": "Shimla",
+    "images": [
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.87,
+    "reviewsCount": 130,
+    "amenities": [
+      "Scandinavian Log Chalets",
+      "Indoor Heated Pool",
+      "Naldehra Golf Course Proximity",
+      "Glass Gazebo Dining",
+      "Forest Trails"
+    ],
+    "startingPrice": 6900,
+    "createdAt": "2026-10-14T15:08:29.622Z",
+    "updatedAt": "2026-10-14T15:08:29.622Z"
+  },
+  {
+    "_id": "197890959f2c3cfc73b5621f",
+    "id": "197890959f2c3cfc73b5621f",
+    "name": "Oberoi Amarvilas Taj Gateway",
+    "description": "Located just 600 meters from the Taj Mahal. Every single guest room and suite enjoys unobstructed views of the iconic monument of love. Features terraced pools, fountains, and regal Mughal arches.",
+    "location": "Taj East Gate Road, Agra, Uttar Pradesh",
+    "address": "Taj East Gate Road, Agra, Uttar Pradesh, India",
+    "city": "Agra",
+    "images": [
+      "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.99,
+    "reviewsCount": 380,
+    "amenities": [
+      "Unobstructed Taj Mahal Views",
+      "Mughal Terraced Pools",
+      "24/7 Butler Service",
+      "Fine Dining Restaurants",
+      "Free Wi-Fi",
+      "Private Golf Buggy to Taj Gate"
+    ],
+    "startingPrice": 28500,
+    "createdAt": "2026-10-14T15:08:29.630Z",
+    "updatedAt": "2026-10-14T15:08:29.630Z"
+  },
+  {
+    "_id": "b1404172ea0e46263e565f7e",
+    "id": "b1404172ea0e46263e565f7e",
+    "name": "ITC Mughal Luxury Resort & Spa",
+    "description": "Winner of the prestigious Aga Khan Award for Architecture. Set amidst 35 acres of verdant Mughal gardens with waterways, marble pavilions, and the largest Kaya Kalp Spa in Asia.",
+    "location": "Fatehabad Road, Tajganj, Agra",
+    "address": "Fatehabad Road, Tajganj, Agra, India",
+    "city": "Agra",
+    "images": [
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.88,
+    "reviewsCount": 290,
+    "amenities": [
+      "Aga Khan Architecture Winner",
+      "Kaya Kalp Royal Spa",
+      "Peshawri Fine Dining",
+      "Mughal Gardens & Pools",
+      "Tennis & Golf Pitch"
+    ],
+    "startingPrice": 9800,
+    "createdAt": "2026-10-14T15:08:29.640Z",
+    "updatedAt": "2026-10-14T15:08:29.640Z"
+  },
+  {
+    "_id": "bf1f60a0faed24464e6511c3",
+    "id": "bf1f60a0faed24464e6511c3",
+    "name": "Taj Hotel & Convention Centre Agra",
+    "description": "Modern luxury boasting a showstopper rooftop infinity pool framing the Taj Mahal silhouette in the distance. Features Daawat-e-Nawab Mughlai cuisine and contemporary rooms with plush comforts.",
+    "location": "Taj Nagari Phase 1, Agra, Uttar Pradesh",
+    "address": "Taj Nagari Phase 1, Agra, Uttar Pradesh, India",
+    "city": "Agra",
+    "images": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.86,
+    "reviewsCount": 215,
+    "amenities": [
+      "Rooftop Infinity Pool with Taj View",
+      "Daawat-e-Nawab Restaurant",
+      "Jiva Spa Therapies",
+      "Fitness Center",
+      "Free Wi-Fi"
+    ],
+    "startingPrice": 8200,
+    "createdAt": "2026-10-14T15:08:29.649Z",
+    "updatedAt": "2026-10-14T15:08:29.649Z"
+  },
+  {
+    "_id": "8bf7f217764a908a780efec6",
+    "id": "8bf7f217764a908a780efec6",
+    "name": "Courtyard by Marriott Heritage Agra",
+    "description": "A welcoming contemporary oasis along Fatehabad Road. Features an expansive outdoor swimming pool surrounded by landscaped lawns, relaxed poolside cabanas, and family-friendly dining.",
+    "location": "Fatehabad Road, Agra, Uttar Pradesh",
+    "address": "Fatehabad Road, Agra, Uttar Pradesh, India",
+    "city": "Agra",
+    "images": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.82,
+    "reviewsCount": 165,
+    "amenities": [
+      "Outdoor Pool & Cabanas",
+      "24h Fitness Center",
+      "MoMo Cafe Dining",
+      "High-Speed Wi-Fi",
+      "Free Valet Parking"
+    ],
+    "startingPrice": 5900,
+    "createdAt": "2026-10-14T15:08:29.660Z",
+    "updatedAt": "2026-10-14T15:08:29.660Z"
+  },
+  {
+    "_id": "bd371dfddde60d51d434b88b",
+    "id": "bd371dfddde60d51d434b88b",
+    "name": "The Grand Imperial Heritage Hotel",
+    "description": "A 150-year-old Victorian colonial hotel crafted with original biscuit bricks and red sandstone. Relive the nostalgic era of the Raj with royal courtyards, period chandeliers, and gardens.",
+    "location": "MG Road, Civil Lines, Agra, Uttar Pradesh",
+    "address": "MG Road, Civil Lines, Agra, Uttar Pradesh, India",
+    "city": "Agra",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.81,
+    "reviewsCount": 120,
+    "amenities": [
+      "Colonial Red Sandstone Courtyard",
+      "Swimming Pool",
+      "Spa Therapies",
+      "Sheesh Mahal Dining",
+      "Heritage Bar"
+    ],
+    "startingPrice": 4800,
+    "createdAt": "2026-10-14T15:08:29.670Z",
+    "updatedAt": "2026-10-14T15:08:29.670Z"
+  },
+  {
+    "_id": "2c24b1f85a37b5ed9ebf35eb",
+    "id": "2c24b1f85a37b5ed9ebf35eb",
+    "name": "Ananda in the Himalayas",
+    "description": "Situated on a 100-acre Maharaja palace estate surrounded by Sal forests with views of the Ganges valley. Renowned globally for destination Ayurvedic healing, Vedanta philosophy, and organic gastronomy.",
+    "location": "The Palace Estate, Narendra Nagar, Rishikesh",
+    "address": "The Palace Estate, Narendra Nagar, Rishikesh, India",
+    "city": "Rishikesh",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.97,
+    "reviewsCount": 160,
+    "amenities": [
+      "24,000 sq ft Hydrotherapy Spa",
+      "Daily Yoga & Vedanta Classes",
+      "Customized Organic Meals",
+      "Infinity Forest Pool",
+      "Free Wi-Fi",
+      "Golf Course & Forest Trails"
+    ],
+    "startingPrice": 22000,
+    "createdAt": "2026-10-14T15:08:29.680Z",
+    "updatedAt": "2026-10-14T15:08:29.680Z"
+  },
+  {
+    "_id": "a838666e4c280f99a6f45921",
+    "id": "a838666e4c280f99a6f45921",
+    "name": "Taj Rishikesh Resort & Spa",
+    "description": "Terraced on the cliffside of the lower Himalayas with its own private pebble beach on the Ganges. Inspired by traditional Garhwali architecture, featuring river infinity pools and twilight Ganga Aarti.",
+    "location": "Singthali, Rishikesh-Badrinath Highway, Uttarakhand",
+    "address": "Singthali, Rishikesh-Badrinath Highway, Uttarakhand, India",
+    "city": "Rishikesh",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.95,
+    "reviewsCount": 210,
+    "amenities": [
+      "Private Ganges Beach",
+      "River Infinity Pool",
+      "Jiva Spa Healing",
+      "Daily Evening Ganga Aarti",
+      "Riverside Rock Dining"
+    ],
+    "startingPrice": 19500,
+    "createdAt": "2026-10-14T15:08:29.691Z",
+    "updatedAt": "2026-10-14T15:08:29.691Z"
+  },
+  {
+    "_id": "085e5e303515534509b796c4",
+    "id": "085e5e303515534509b796c4",
+    "name": "The Roseate Ganges Luxury Retreat",
+    "description": "An architectural marvel in Shivpuri with 16 stand-alone luxury villas. Features a temperature-controlled infinity pool cantilevered over the Ganges, organic dining at Chidya Ghar, and forest spa therapies.",
+    "location": "Rishikesh-Badrinath Road, Shivpuri, Rishikesh",
+    "address": "Rishikesh-Badrinath Road, Shivpuri, Rishikesh, India",
+    "city": "Rishikesh",
+    "images": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.92,
+    "reviewsCount": 135,
+    "amenities": [
+      "Cantilevered River Infinity Pool",
+      "Chidya Ghar Organic Dining",
+      "Aheli Spa",
+      "Private Ganga Aarti Lawn",
+      "Helipad Access"
+    ],
+    "startingPrice": 15800,
+    "createdAt": "2026-10-14T15:08:29.700Z",
+    "updatedAt": "2026-10-14T15:08:29.700Z"
+  },
+  {
+    "_id": "a9142cb299c46831028f6e49",
+    "id": "a9142cb299c46831028f6e49",
+    "name": "Aloha On The Ganges Riverfront",
+    "description": "Positioned in Tapovan right on the edge of the river, within walking distance of Lakshman Jhula. Features lush riverfront gardens, an infinity pool with mountain reflections, and peaceful yoga lawns.",
+    "location": "Tapovan, Rishikesh, Uttarakhand",
+    "address": "Tapovan, Rishikesh, Uttarakhand, India",
+    "city": "Rishikesh",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.85,
+    "reviewsCount": 220,
+    "amenities": [
+      "Riverfront Infinity Pool",
+      "Tapovan Location Near Jhula",
+      "Latitude Multi-Cuisine",
+      "Ayurvedic Wellness Spa",
+      "Daily Yoga Classes"
+    ],
+    "startingPrice": 7600,
+    "createdAt": "2026-10-14T15:08:29.709Z",
+    "updatedAt": "2026-10-14T15:08:29.709Z"
+  },
+  {
+    "_id": "168acb35164a9c4d50273055",
+    "id": "168acb35164a9c4d50273055",
+    "name": "Raga on the Ganges Mountain Sanctuary",
+    "description": "Perched high above a pristine white sand bend of the upper Ganges in Byasi. Surrounded by virgin mountain forests with outdoor cedar Jacuzzis, yoga decks, and quiet river meditation spots.",
+    "location": "Byasi, Devprayag Road, Rishikesh",
+    "address": "Byasi, Devprayag Road, Rishikesh, India",
+    "city": "Rishikesh",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.82,
+    "reviewsCount": 110,
+    "amenities": [
+      "Outdoor Cedar Jacuzzi Deck",
+      "Upper Ganges White Beach Access",
+      "Tarana Multi-Cuisine Dining",
+      "River Rafting Desk",
+      "Morning Pranayama"
+    ],
+    "startingPrice": 6800,
+    "createdAt": "2026-10-14T15:08:29.716Z",
+    "updatedAt": "2026-10-14T15:08:29.716Z"
+  },
+  {
+    "_id": "a8e8403756175db15826b948",
+    "id": "a8e8403756175db15826b948",
+    "name": "The Leela Palace Garden Estate",
+    "description": "Inspired by the grand architecture of the Vijayanagara Empire. Set in 7 acres of lush gardens with waterfalls, gold-leaf domes, crystal chandeliers, and world-class tech-forward amenities.",
+    "location": "Old Airport Road, Kodihalli, Bengaluru, Karnataka",
+    "address": "Old Airport Road, Kodihalli, Bengaluru, Karnataka, India",
+    "city": "Bengaluru",
+    "images": [
+      "https://images.unsplash.com/photo-1596178065887-1198b6148b2b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.96,
+    "reviewsCount": 310,
+    "amenities": [
+      "Lush Garden Estate",
+      "Temperature-Controlled Pool",
+      "Pan-Asian & Citrus Fine Dining",
+      "Ultra-Fast Wi-Fi (300 Mbps)",
+      "Luxury Spa",
+      "Executive Airport Transfer"
+    ],
+    "startingPrice": 10800,
+    "createdAt": "2026-10-14T15:08:29.729Z",
+    "updatedAt": "2026-10-14T15:08:29.729Z"
+  },
+  {
+    "_id": "4ff9cf23ee8bff76d9b0147a",
+    "id": "4ff9cf23ee8bff76d9b0147a",
+    "name": "Taj West End Heritage Garden Hotel",
+    "description": "Founded in 1887, sprawling across 20 acres of tropical flora with 150-year-old heritage banyan trees. Features legendary Blue Ginger Vietnamese dining, open-air garden verandas, and high-society colonial charm.",
+    "location": "Race Course Road, High Grounds, Bengaluru",
+    "address": "Race Course Road, High Grounds, Bengaluru, India",
+    "city": "Bengaluru",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1596178065887-1198b6148b2b?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.94,
+    "reviewsCount": 260,
+    "amenities": [
+      "20-Acre Heritage Tropical Garden",
+      "Blue Ginger Vietnamese Dining",
+      "Jiva Spa & Nature Walks",
+      "Garden Swimming Pool",
+      "Heritage High Tea"
+    ],
+    "startingPrice": 12500,
+    "createdAt": "2026-10-14T15:08:29.738Z",
+    "updatedAt": "2026-10-14T15:08:29.738Z"
+  },
+  {
+    "_id": "cef1deb4d5e6f21062b14904",
+    "id": "cef1deb4d5e6f21062b14904",
+    "name": "ITC Gardenia Luxury Collection",
+    "description": "Inspired by Bengaluru’s legacy as the Garden City. Asia’s first LEED Platinum certified luxury hotel, featuring open-air wind-cooled lobbies, hanging vertical gardens, and renowned Edo Japanese dining.",
+    "location": "Residency Road, Shanthala Nagar, Bengaluru",
+    "address": "Residency Road, Shanthala Nagar, Bengaluru, India",
+    "city": "Bengaluru",
+    "images": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1596178065887-1198b6148b2b?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 280,
+    "amenities": [
+      "LEED Platinum Green Luxury",
+      "Vertical Hanging Gardens",
+      "Edo Japanese Restaurant",
+      "Kaya Kalp Spa",
+      "Rooftop Helipad"
+    ],
+    "startingPrice": 11200,
+    "createdAt": "2026-10-14T15:08:29.747Z",
+    "updatedAt": "2026-10-14T15:08:29.747Z"
+  },
+  {
+    "_id": "dda97d50d9eb9bc90f4237d3",
+    "id": "dda97d50d9eb9bc90f4237d3",
+    "name": "The Ritz-Carlton Residency",
+    "description": "Striking contemporary architecture featuring traditional Jaali latticework in the heart of Bengaluru. Home to the Bang rooftop open-air bar, lantern-lit temperature-controlled pool, and Ritz-Carlton Spa.",
+    "location": "Residency Road, Central Business District, Bengaluru",
+    "address": "Residency Road, Central Business District, Bengaluru, India",
+    "city": "Bengaluru",
+    "images": [
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.91,
+    "reviewsCount": 245,
+    "amenities": [
+      "Bang Rooftop Bar",
+      "Lantern-Lit Outdoor Pool",
+      "The Ritz-Carlton Spa",
+      "Riwaz Indian Dining",
+      "24/7 Club Lounge"
+    ],
+    "startingPrice": 13400,
+    "createdAt": "2026-10-14T15:08:29.758Z",
+    "updatedAt": "2026-10-14T15:08:29.758Z"
+  },
+  {
+    "_id": "2455f21d7031acfbd1579d43",
+    "id": "2455f21d7031acfbd1579d43",
+    "name": "Four Seasons Hotel at Embassy ONE",
+    "description": "A contemporary urban sanctuary surrounded by peaceful butterfly gardens and a ribbon lawn pool. Features the celebrated Copitas rooftop cocktail lounge on the 21st floor and Far & East Asian dining.",
+    "location": "Bellary Road, Ganganagar, Bengaluru",
+    "address": "Bellary Road, Ganganagar, Bengaluru, India",
+    "city": "Bengaluru",
+    "images": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1596178065887-1198b6148b2b?auto=format&fit=crop&w=600&q=80"
+    ],
+    "rating": 4.93,
+    "reviewsCount": 215,
+    "amenities": [
+      "Ribbon Lawn Pool",
+      "Copitas 21st Floor Rooftop Bar",
+      "Infuse Spa",
+      "Far & East Asian Dining",
+      "Butterfly Garden"
+    ],
+    "startingPrice": 14200,
+    "createdAt": "2026-10-14T15:08:29.767Z",
+    "updatedAt": "2026-10-14T15:08:29.767Z"
+  }
+]

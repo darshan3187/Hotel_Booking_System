@@ -1,0 +1,102 @@
+/* ==========================================================================
+   StayEase Design System Tokens
+   Aesthetic: Hybrid of Airbnb (hospitality UX) & Apple (visual discipline)
+   ========================================================================== */
+
+:root {
+  /* 1. Sophisticated Hospitality Color Palette */
+  /* Primary background: Warm white / soft ivory */
+  --color-canvas: #FAF8F5;
+  /* Secondary background: Very light warm gray */
+  --color-surface-soft: #F4F1EB;
+  /* Clean white card surfaces */
+  --color-surface-card: #FFFFFF;
+  --color-surface-elevated: #FFFFFF;
+  --color-surface-hover: #EFEBE4;
+
+  /* Primary text: Deep charcoal */
+  --color-ink: #1D1D1F;
+  --color-body: #3A3A3C;
+  /* Secondary text: Muted gray */
+  --color-muted: #6E6E73;
+  --color-muted-soft: #8E8E93;
+  --color-muted-light: #A1A1A6;
+
+  /* Accent: Restrained warm terracotta / warm coral */
+  --color-primary: #C85A32;
+  --color-primary-hover: #B24E2A;
+  --color-primary-active: #9A3F1E;
+  --color-primary-disabled: #F0CFBF;
+  --color-primary-soft: #FBF2ED;
+  --color-primary-tint: #FAF0EB;
+
+  /* Secondary Accent: Muted bronze / brass */
+  --color-bronze: #9E7247;
+  --color-bronze-soft: #F6F1EA;
+
+  /* Status Colors (Calm & Restrained) */
+  --color-success: #2E7D4D;
+  --color-success-bg: #EDF7F1;
+  --color-warning: #B26A00;
+  --color-warning-bg: #FEF7EC;
+  --color-danger: #C0392B;
+  --color-danger-bg: #FDF0ED;
+  --color-info: #2B6CB0;
+  --color-info-bg: #EBF4FC;
+
+  /* Hairlines & Borders: Subtle neutral warm gray */
+  --color-hairline: #E5E1D8;
+  --color-hairline-soft: #ECE8E1;
+  --color-border-strong: #D1CBC0;
+  --color-scrim: rgba(29, 29, 31, 0.46);
+
+  /* Star rating */
+  --color-star-rating: #C85A32;
+
+  /* 2. Typography Stack */
+  --font-family-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", Roboto, sans-serif;
+  --font-family-serif: "Playfair Display", Georgia, serif;
+  --font-family-cereal: var(--font-family-sans);
+
+  /* 3. Border Radii (Apple-inspired rounded geometry) */
+  --radius-xs: 6px;
+  --radius-sm: 10px;               /* Buttons, form inputs */
+  --radius-md: 16px;               /* Property cards, dialogs */
+  --radius-lg: 24px;               /* Large cards, sections */
+  --radius-xl: 32px;               /* Hero panels */
+  --radius-full: 9999px;           /* Search pill, orb, avatar circles */
+
+  /* 4. Spacing Scale (4px base grid) */
+  --spacing-xxs: 2px;
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 12px;
+  --spacing-base: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+  --spacing-xxl: 48px;
+  --spacing-section: 72px;
+
+  /* 5. Diffuse Elevation (Apple-like soft shadows) */
+  --shadow-subtle: 0 1px 2px rgba(29, 29, 31, 0.04), 0 2px 4px rgba(29, 29, 31, 0.02);
+  --shadow-card: 0 4px 20px -2px rgba(29, 29, 31, 0.06), 0 2px 6px -1px rgba(29, 29, 31, 0.03);
+  --shadow-card-hover: 0 16px 36px -4px rgba(29, 29, 31, 0.12), 0 4px 12px -2px rgba(29, 29, 31, 0.04);
+  --shadow-float: 0 24px 54px -8px rgba(29, 29, 31, 0.14), 0 8px 20px -4px rgba(29, 29, 31, 0.06);
+  --shadow-airbnb: var(--shadow-card);
+
+  /* 6. Layout Constants */
+  --max-content-width: 1280px;
+  --top-nav-height: 80px;
+
+  /* Backward Compatibility Mappings */
+  --bg-primary: var(--color-canvas);
+  --bg-surface: var(--color-surface-card);
+  --bg-subtle: var(--color-surface-soft);
+  --text-primary: var(--color-ink);
+  --text-secondary: var(--color-body);
+  --text-muted: var(--color-muted);
+  --border-color: var(--color-hairline);
+  --border-subtle: var(--color-hairline-soft);
+  --color-accent: var(--color-primary);
+  --color-accent-dark: var(--color-primary-hover);
+}
