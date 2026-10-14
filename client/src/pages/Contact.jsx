@@ -1,11 +1,52 @@
 import React, { useState } from 'react';
-import { Mail, Phone, MapPin, Send, CheckCircle2 } from 'lucide-react';
+import { 
+  Mail, 
+  Phone, 
+  MapPin, 
+  Send, 
+  CheckCircle2, 
+  Clock, 
+  Sparkles, 
+  ShieldCheck,
+  Compass
+} from 'lucide-react';
+import '../styles/contact.css';
+
+const TOPICS = [
+  'Reservation Help',
+  'Boutique Stays & Advice',
+  'Modify Booking Dates',
+  'Property Partnership',
+  'Feedback & Inquiries'
+];
+
+const FAQS = [
+  {
+    q: 'How do I arrange late check-in or airport transfers?',
+    a: 'Simply share your arrival details and booking reference with our concierge. We coordinate directly with your hotel host to ensure private transfer greeting and smooth late-night arrivals.'
+  },
+  {
+    q: 'What is the cancellation policy on boutique stays?',
+    a: 'Most properties offer full cancellation up to 48 hours prior to check-in. You can review your stay terms and manage cancellations anytime from your personal Bookings dashboard.'
+  },
+  {
+    q: 'Are taxes and fees transparently included?',
+    a: 'Yes. StayEase follows strict transparent pricing. Nightly rates display itemized GST breakdowns with zero hidden resort fees or unexpected charges upon check-in.'
+  },
+  {
+    q: 'Can I request bespoke heritage dining or private tours?',
+    a: 'Certainly. Our partner havelis and luxury retreats offer curated local experiences—from traditional rooftop thali dinners in Ahmedabad to private boat rides in Varanasi.'
+  }
+];
 
 const Contact = () => {
+  const [selectedTopic, setSelectedTopic] = useState('Reservation Help');
   const [submitted, setSubmitted] = useState(false);
   const [formData, setFormData] = useState({
     name: '',
     email: '',
+    phone: '',
+    bookingRef: '',
     subject: '',
     message: ''
   });
@@ -16,153 +57,289 @@ const Contact = () => {
   };
 
   return (
-    <div style={{ maxWidth: '1100px', margin: '0 auto', padding: '40px 20px 60px' }}>
-      {/* Header */}
-      <div style={{ textAlign: 'center', marginBottom: '50px' }}>
-        <span style={{ 
-          display: 'inline-block', 
-          fontSize: '13px', 
-          fontWeight: 600, 
-          letterSpacing: '0.08em', 
-          textTransform: 'uppercase', 
-          color: 'var(--color-primary, #ff385c)',
-          background: 'rgba(255, 56, 92, 0.08)',
-          padding: '6px 14px',
-          borderRadius: '20px',
-          marginBottom: '16px'
-        }}>
-          Get in Touch
-        </span>
-        <h1 style={{ fontSize: '38px', fontWeight: 800, color: '#0f172a', marginBottom: '16px' }}>
-          We'd Love to Hear From You
-        </h1>
-        <p style={{ fontSize: '17px', color: '#64748b', maxWidth: '600px', margin: '0 auto' }}>
-          Have questions about a booking, partnership, or feedback? Send us a message and our support team will respond within 2 hours.
-        </p>
-      </div>
+    <main id="main-content" className="contact-page">
+      <div className="container">
+        {/* ==================================================================
+            1. Editorial Page Header
+            ================================================================== */}
+        <header className="contact-header">
+          <span className="contact-eyebrow">GUEST CONCIERGE &amp; SUPPORT</span>
+          <h1 className="contact-title">We’re Here to Assist Your Journey</h1>
+          <p className="contact-subtitle">
+            Whether coordinating a private heritage stay, planning special arrival arrangements, 
+            or seeking personalized travel recommendations across India—our concierge is at your service.
+          </p>
+        </header>
 
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))', gap: '40px', alignItems: 'start' }}>
-        {/* Contact Info Card */}
-        <div style={{ background: '#ffffff', border: '1px solid #e2e8f0', borderRadius: '20px', padding: '36px', boxShadow: '0 4px 20px rgba(0,0,0,0.04)' }}>
-          <h3 style={{ fontSize: '22px', fontWeight: 700, color: '#0f172a', marginBottom: '24px' }}>Contact Information</h3>
-
-          <div style={{ display: 'flex', gap: '16px', marginBottom: '28px' }}>
-            <div style={{ width: '44px', height: '44px', borderRadius: '12px', background: 'rgba(255,56,92,0.1)', color: '#ff385c', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
-              <Mail size={20} />
-            </div>
+        {/* ==================================================================
+            2. Two-Column Layout (Concierge Desk & Modern Form)
+            ================================================================== */}
+        <div className="contact-layout-grid">
+          {/* Left Column: Dedicated Concierge Panel */}
+          <aside className="contact-concierge-card" aria-label="Concierge and Contact Details">
             <div>
-              <h4 style={{ fontSize: '15px', fontWeight: 600, color: '#0f172a', margin: '0 0 4px' }}>Email Support</h4>
-              <p style={{ color: '#64748b', margin: 0, fontSize: '14px' }}>support@stayease.com</p>
-              <p style={{ color: '#64748b', margin: 0, fontSize: '14px' }}>help@stayease.com</p>
-            </div>
-          </div>
+              <div className="contact-concierge-header">
+                <div className="contact-concierge-badge">
+                  <span className="contact-concierge-pulse" aria-hidden="true" />
+                  <span>Hospitality Desk Online</span>
+                </div>
+                <h2 className="contact-concierge-title">Dedicated Guest Support</h2>
+                <p className="contact-concierge-desc">
+                  Our hospitality team is based across India to assist with your boutique reservations,
+                  room preferences, and on-ground logistics.
+                </p>
+              </div>
 
-          <div style={{ display: 'flex', gap: '16px', marginBottom: '28px' }}>
-            <div style={{ width: '44px', height: '44px', borderRadius: '12px', background: 'rgba(255,56,92,0.1)', color: '#ff385c', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
-              <Phone size={20} />
-            </div>
-            <div>
-              <h4 style={{ fontSize: '15px', fontWeight: 600, color: '#0f172a', margin: '0 0 4px' }}>Phone Support</h4>
-              <p style={{ color: '#64748b', margin: 0, fontSize: '14px' }}>+91 1800-123-4567 (Toll Free)</p>
-              <p style={{ color: '#64748b', margin: 0, fontSize: '14px' }}>+91 98765-43210 (24x7 Helpline)</p>
-            </div>
-          </div>
+              <div className="contact-channels-list">
+                {/* Channel 1: Phone */}
+                <div className="contact-channel-item">
+                  <div className="contact-channel-icon-wrap" aria-hidden="true">
+                    <Phone size={20} />
+                  </div>
+                  <div className="contact-channel-details">
+                    <span className="contact-channel-label">Concierge Helpline</span>
+                    <a href="tel:+9118001234567" className="contact-channel-value">
+                      +91 1800-123-4567 (Toll Free)
+                    </a>
+                    <a href="tel:+919876543210" className="contact-channel-value">
+                      +91 98765-43210 (Direct Support)
+                    </a>
+                    <span className="contact-channel-meta">Daily: 7:00 AM – 11:00 PM IST</span>
+                  </div>
+                </div>
 
-          <div style={{ display: 'flex', gap: '16px' }}>
-            <div style={{ width: '44px', height: '44px', borderRadius: '12px', background: 'rgba(255,56,92,0.1)', color: '#ff385c', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
-              <MapPin size={20} />
+                {/* Channel 2: Email */}
+                <div className="contact-channel-item">
+                  <div className="contact-channel-icon-wrap" aria-hidden="true">
+                    <Mail size={20} />
+                  </div>
+                  <div className="contact-channel-details">
+                    <span className="contact-channel-label">Direct Correspondence</span>
+                    <a href="mailto:concierge@stayease.com" className="contact-channel-value">
+                      concierge@stayease.com
+                    </a>
+                    <a href="mailto:partnerships@stayease.com" className="contact-channel-value">
+                      partnerships@stayease.com
+                    </a>
+                    <span className="contact-channel-meta">Replies within 2 business hours</span>
+                  </div>
+                </div>
+
+                {/* Channel 3: Sanctuaries */}
+                <div className="contact-channel-item">
+                  <div className="contact-channel-icon-wrap" aria-hidden="true">
+                    <MapPin size={20} />
+                  </div>
+                  <div className="contact-channel-details">
+                    <span className="contact-channel-label">Hospitality Sanctuaries</span>
+                    <p className="contact-channel-value" style={{ margin: 0 }}>
+                      Heritage Pavilion, Civil Lines, Jaipur 302006<br />
+                      Sanctuary Suites, MG Road, Bengaluru 560001
+                    </p>
+                  </div>
+                </div>
+              </div>
             </div>
-            <div>
-              <h4 style={{ fontSize: '15px', fontWeight: 600, color: '#0f172a', margin: '0 0 4px' }}>Headquarters</h4>
-              <p style={{ color: '#64748b', margin: 0, fontSize: '14px', lineHeight: '1.5' }}>
-                StayEase Tech Park, 4th Floor<br />
-                MG Road, Bengaluru, Karnataka 560001
+
+            {/* Bottom Vignette */}
+            <div className="contact-concierge-footer">
+              <img
+                src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=200&q=80"
+                alt="Boutique palace courtyard with serene swimming pool"
+                className="contact-concierge-thumb"
+                loading="lazy"
+              />
+              <p className="contact-concierge-footer-text">
+                <strong>Attentive Hospitality:</strong> Average response time is under 15 minutes
+                during active guest check-in hours.
               </p>
             </div>
+          </aside>
+
+          {/* Right Column: Refined Message Form */}
+          <section className="contact-form-card" aria-label="Send a Message Form">
+            {submitted ? (
+              <div className="contact-success-state">
+                <div className="contact-success-icon-wrap">
+                  <CheckCircle2 size={36} aria-hidden="true" />
+                </div>
+                <h3 className="contact-success-title">Message Received</h3>
+                <p className="contact-success-desc">
+                  Thank you, <strong>{formData.name || 'Traveler'}</strong>. Our concierge team has 
+                  received your inquiry regarding <em>{selectedTopic}</em> and will respond to{' '}
+                  <strong>{formData.email}</strong> shortly.
+                </p>
+                <button
+                  type="button"
+                  className="contact-reset-btn"
+                  onClick={() => {
+                    setSubmitted(false);
+                    setFormData({
+                      name: '',
+                      email: '',
+                      phone: '',
+                      bookingRef: '',
+                      subject: '',
+                      message: ''
+                    });
+                  }}
+                >
+                  Send Another Inquiry
+                </button>
+              </div>
+            ) : (
+              <form onSubmit={handleSubmit}>
+                <h2 className="contact-form-title">Send Us a Message</h2>
+                <p className="contact-form-desc">
+                  Select your inquiry category and share your details below.
+                </p>
+
+                {/* Inquiry Topic Chips */}
+                <div className="contact-topics-group">
+                  <span className="contact-topics-label">Select Inquiry Nature:</span>
+                  <div className="contact-topics-row" role="radiogroup" aria-label="Inquiry nature">
+                    {TOPICS.map((topic) => (
+                      <button
+                        key={topic}
+                        type="button"
+                        role="radio"
+                        aria-checked={selectedTopic === topic}
+                        className={`contact-topic-chip ${selectedTopic === topic ? 'active' : ''}`}
+                        onClick={() => setSelectedTopic(topic)}
+                      >
+                        {topic}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Name & Email Row */}
+                <div className="contact-form-row">
+                  <div className="contact-form-group">
+                    <label htmlFor="contact-name" className="contact-label">Your Full Name *</label>
+                    <input
+                      id="contact-name"
+                      type="text"
+                      required
+                      placeholder="e.g. Rahul Sharma"
+                      className="contact-input"
+                      value={formData.name}
+                      onChange={(e) => setFormData({ ...formData, name: e.target.value })}
+                    />
+                  </div>
+
+                  <div className="contact-form-group">
+                    <label htmlFor="contact-email" className="contact-label">Email Address *</label>
+                    <input
+                      id="contact-email"
+                      type="email"
+                      required
+                      placeholder="name@example.com"
+                      className="contact-input"
+                      value={formData.email}
+                      onChange={(e) => setFormData({ ...formData, email: e.target.value })}
+                    />
+                  </div>
+                </div>
+
+                {/* Phone & Booking Ref Row */}
+                <div className="contact-form-row">
+                  <div className="contact-form-group">
+                    <label htmlFor="contact-phone" className="contact-label">
+                      Phone Number <span style={{ opacity: 0.6 }}>(Optional)</span>
+                    </label>
+                    <input
+                      id="contact-phone"
+                      type="tel"
+                      placeholder="+91 98765 43210"
+                      className="contact-input"
+                      value={formData.phone}
+                      onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
+                    />
+                  </div>
+
+                  <div className="contact-form-group">
+                    <label htmlFor="contact-ref" className="contact-label">
+                      Booking Reference <span style={{ opacity: 0.6 }}>(If applicable)</span>
+                    </label>
+                    <input
+                      id="contact-ref"
+                      type="text"
+                      placeholder="e.g. SE-847291"
+                      className="contact-input"
+                      value={formData.bookingRef}
+                      onChange={(e) => setFormData({ ...formData, bookingRef: e.target.value })}
+                    />
+                  </div>
+                </div>
+
+                {/* Subject */}
+                <div className="contact-form-group">
+                  <label htmlFor="contact-subject" className="contact-label">Subject</label>
+                  <input
+                    id="contact-subject"
+                    type="text"
+                    required
+                    placeholder={`e.g. Inquiring regarding ${selectedTopic.toLowerCase()}`}
+                    className="contact-input"
+                    value={formData.subject}
+                    onChange={(e) => setFormData({ ...formData, subject: e.target.value })}
+                  />
+                </div>
+
+                {/* Message */}
+                <div className="contact-form-group">
+                  <label htmlFor="contact-message" className="contact-label">How May We Assist You? *</label>
+                  <textarea
+                    id="contact-message"
+                    rows={4}
+                    required
+                    placeholder="Tell us about your dates, destination, special preferences, or questions..."
+                    className="contact-textarea"
+                    value={formData.message}
+                    onChange={(e) => setFormData({ ...formData, message: e.target.value })}
+                  />
+                </div>
+
+                {/* Submit Action */}
+                <button 
+                  type="submit" 
+                  className="contact-submit-btn"
+                  id="contact-submit-btn"
+                >
+                  <Send size={18} aria-hidden="true" />
+                  <span>Send Message to Concierge</span>
+                </button>
+              </form>
+            )}
+          </section>
+        </div>
+
+        {/* ==================================================================
+            3. Common Guest Questions (FAQ Section)
+            ================================================================== */}
+        <section className="contact-faq-section" aria-labelledby="faq-heading">
+          <div className="contact-faq-header">
+            <h2 id="faq-heading" className="contact-faq-title">Frequently Asked Questions</h2>
+            <p className="contact-faq-desc">
+              Quick answers to common questions about reservations, check-in, and stay policies.
+            </p>
           </div>
-        </div>
 
-        {/* Contact Form */}
-        <div style={{ background: '#ffffff', border: '1px solid #e2e8f0', borderRadius: '20px', padding: '36px', boxShadow: '0 4px 20px rgba(0,0,0,0.04)' }}>
-          {submitted ? (
-            <div style={{ textAlign: 'center', padding: '40px 10px' }}>
-              <CheckCircle2 size={56} color="#10b981" style={{ marginBottom: '16px' }} />
-              <h3 style={{ fontSize: '22px', fontWeight: 700, color: '#0f172a', marginBottom: '8px' }}>Message Sent Successfully!</h3>
-              <p style={{ color: '#64748b', fontSize: '15px', marginBottom: '24px' }}>
-                Thank you for reaching out. Our support team will get back to you shortly at {formData.email}.
-              </p>
-              <button 
-                className="btn btn-outline" 
-                onClick={() => setSubmitted(false)}
-                style={{ borderRadius: '10px' }}
-              >
-                Send Another Message
-              </button>
-            </div>
-          ) : (
-            <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
-              <h3 style={{ fontSize: '22px', fontWeight: 700, color: '#0f172a', marginBottom: '4px' }}>Send us a message</h3>
-              
-              <div>
-                <label style={{ display: 'block', fontSize: '14px', fontWeight: 600, color: '#334155', marginBottom: '6px' }}>Your Name</label>
-                <input 
-                  type="text" 
-                  required
-                  placeholder="e.g. Rahul Sharma"
-                  value={formData.name}
-                  onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-                  style={{ width: '100%', padding: '12px 14px', borderRadius: '10px', border: '1px solid #cbd5e1', fontSize: '15px' }}
-                />
+          <div className="contact-faq-grid">
+            {FAQS.map((faq, index) => (
+              <div key={index} className="contact-faq-item">
+                <h3 className="contact-faq-question">
+                  <span className="contact-faq-question-dot" aria-hidden="true" />
+                  <span>{faq.q}</span>
+                </h3>
+                <p className="contact-faq-answer">{faq.a}</p>
               </div>
-
-              <div>
-                <label style={{ display: 'block', fontSize: '14px', fontWeight: 600, color: '#334155', marginBottom: '6px' }}>Email Address</label>
-                <input 
-                  type="email" 
-                  required
-                  placeholder="name@example.com"
-                  value={formData.email}
-                  onChange={(e) => setFormData({ ...formData, email: e.target.value })}
-                  style={{ width: '100%', padding: '12px 14px', borderRadius: '10px', border: '1px solid #cbd5e1', fontSize: '15px' }}
-                />
-              </div>
-
-              <div>
-                <label style={{ display: 'block', fontSize: '14px', fontWeight: 600, color: '#334155', marginBottom: '6px' }}>Subject</label>
-                <input 
-                  type="text" 
-                  required
-                  placeholder="Booking inquiry, feedback..."
-                  value={formData.subject}
-                  onChange={(e) => setFormData({ ...formData, subject: e.target.value })}
-                  style={{ width: '100%', padding: '12px 14px', borderRadius: '10px', border: '1px solid #cbd5e1', fontSize: '15px' }}
-                />
-              </div>
-
-              <div>
-                <label style={{ display: 'block', fontSize: '14px', fontWeight: 600, color: '#334155', marginBottom: '6px' }}>Message</label>
-                <textarea 
-                  rows="4" 
-                  required
-                  placeholder="How can we help you?"
-                  value={formData.message}
-                  onChange={(e) => setFormData({ ...formData, message: e.target.value })}
-                  style={{ width: '100%', padding: '12px 14px', borderRadius: '10px', border: '1px solid #cbd5e1', fontSize: '15px', resize: 'vertical' }}
-                />
-              </div>
-
-              <button 
-                type="submit" 
-                className="btn btn-primary" 
-                style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px', padding: '14px', borderRadius: '10px', fontSize: '16px', fontWeight: 600 }}
-              >
-                <Send size={18} /> Send Message
-              </button>
-            </form>
-          )}
-        </div>
+            ))}
+          </div>
+        </section>
       </div>
-    </div>
+    </main>
   );
 };
 
