@@ -905,19 +905,10 @@
 
 .decay-destination-card {
   width: 100% !important;
+  /* box-shadow: 0 6px 20px rgba(0, 0, 0, 0.09); */
+  /* border: 1px solid var(--color-hairline-soft, rgba(0, 0, 0, 0.08)); */
+  /* transition: transform 300ms cubic-bezier(0.16, 1, 0.3, 1), box-shadow 300ms cubic-bezier(0.16, 1, 0.3, 1); */
   overflow: hidden;
-}
-
-@media (max-width: 640px) {
-  .decay-destination-card {
-    height: 320px !important;
-  }
-}
-
-@media (max-width: 380px) {
-  .decay-destination-card {
-    height: 270px !important;
-  }
 }
 
 
@@ -3347,12 +3338,6 @@
   background-color: #ffffff;
   border-bottom: 1px solid var(--color-hairline-soft);
   overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-  scrollbar-width: none;
-}
-
-.admin-tabs-bar::-webkit-scrollbar {
-  display: none;
 }
 
 .admin-tab-btn {
@@ -3411,12 +3396,10 @@
 .admin-table-responsive {
   overflow-x: auto;
   width: 100%;
-  -webkit-overflow-scrolling: touch;
 }
 
 .admin-data-table {
   width: 100%;
-  min-width: 680px;
   border-collapse: collapse;
   text-align: left;
   font-size: 13px;
@@ -3693,20 +3676,6 @@
   .featured-grid {
     grid-template-columns: repeat(2, 1fr);
   }
-  .details-header-row {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 14px;
-  }
-  .details-action-group {
-    display: flex;
-    gap: 10px;
-    width: 100%;
-  }
-  .details-action-group .btn {
-    flex: 1;
-    justify-content: center;
-  }
   .details-photo-grid {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 180px 120px;
@@ -3723,24 +3692,7 @@
     grid-template-columns: 1fr;
   }
   .room-card-media {
-    min-height: 200px;
-    width: 100%;
-  }
-  .room-card-body {
-    padding: 18px 16px;
-  }
-  .itinerary-card {
-    padding: 20px 16px;
-    border-radius: 18px;
-  }
-  .itinerary-top-bar {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 10px;
-  }
-  .itinerary-details-grid {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 14px;
+    min-height: 180px;
   }
   .admin-canvas-content {
     padding: 16px 14px;
@@ -3750,50 +3702,6 @@
 @media (max-width: 640px) {
   .hotels-listing-grid {
     grid-template-columns: 1fr !important;
-    gap: 20px;
-  }
-  .itinerary-details-grid {
-    grid-template-columns: 1fr;
-  }
-  .itinerary-actions-wrap {
-    justify-content: flex-start;
-    width: 100%;
-    margin-top: 6px;
-  }
-  .itinerary-actions-wrap .btn {
-    flex: 1;
-    justify-content: center;
-  }
-  .admin-topbar-clean {
-    flex-direction: column;
-    align-items: flex-start;
-    height: auto;
-    padding: 14px 16px;
-    gap: 12px;
-  }
-  .admin-topbar-right {
-    width: 100%;
-    justify-content: space-between;
-  }
-  .admin-header-row {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 14px;
-  }
-  .guest-favorite-banner {
-    flex-direction: column;
-    text-align: center;
-    gap: 14px;
-  }
-  .guest-favorite-rating-block {
-    align-items: center;
-  }
-  .booking-segment-row {
-    grid-template-columns: 1fr;
-  }
-  .booking-segment:first-child {
-    border-right: none;
-    border-bottom: 1px solid var(--color-hairline);
   }
 }
 
@@ -3834,96 +3742,44 @@
   .admin-kpi-grid {
     grid-template-columns: 1fr;
   }
+  .booking-segment-row {
+    grid-template-columns: 1fr;
+  }
+  .booking-segment:first-child {
+    border-right: none;
+    border-bottom: 1px solid var(--color-hairline);
+  }
+  .guest-favorite-banner {
+    flex-direction: column;
+    text-align: center;
+  }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 430px) {
   .details-photo-grid {
     grid-template-columns: 1fr;
-    grid-template-rows: 230px;
+    grid-template-rows: 220px;
   }
   .photo-grid-cell:not(.photo-cell-hero) {
     display: none;
   }
-  .photo-cell-hero img {
-    height: 230px;
-    width: 100%;
-    object-fit: cover;
-    border-radius: 16px;
-  }
-  .room-card-footer {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 12px;
-    width: 100%;
-  }
-  .room-action-wrap {
-    width: 100%;
-  }
-  .room-action-wrap .btn {
-    width: 100%;
-    justify-content: center;
-  }
-  .booking-summary-card .summary-media-row {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 12px;
-  }
-  .summary-room-img {
-    width: 100%;
-    height: 140px;
-  }
-  .btn-submit-reservation {
-    width: 100%;
-    font-size: 14px;
-    padding: 12px 14px;
-    white-space: normal;
-    height: auto;
-    min-height: 48px;
-    text-align: center;
-  }
-  .booking-stepper {
-    font-size: 11px;
-    gap: 4px;
-  }
   .auth-card {
     padding: 24px 16px;
-    border-radius: 18px;
   }
   .booking-success-card {
     padding: 28px 16px;
-    border-radius: 18px;
   }
   .reservation-card-elevated {
     padding: 18px 14px;
-    border-radius: 18px;
   }
 }
 
-@media (max-width: 380px) {
-  .hero-headline,
-  .hero-title {
-    font-size: 26px !important;
-  }
-  .editorial-headline {
-    font-size: 22px !important;
-  }
-  .editorial-display {
+@media (max-width: 360px) {
+  .hero-headline {
     font-size: 26px !important;
   }
   .details-title {
-    font-size: 20px !important;
-  }
-  .booking-main-title {
     font-size: 22px !important;
-  }
-  .property-title {
-    font-size: 15px;
-  }
-  .property-price-bold {
-    font-size: 15px;
-  }
-  .property-dates {
-    font-size: 12px;
   }
   .airbnb-brand span {
     font-size: 18px;

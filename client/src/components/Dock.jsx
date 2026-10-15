@@ -41,40 +41,25 @@ export function DockCard({ children, onClick, label, isActive = false, id }) {
   const cardRef = useRef(null);
   const { mouseX } = useDock();
   const [hoveredCard, setHoveredCard] = useState(false);
-  const [viewportWidth, setViewportWidth] = useState(() => (typeof window !== 'undefined' ? window.innerWidth : 1024));
-
-  useEffect(() => {
-    const handleResize = () => setViewportWidth(window.innerWidth);
-    window.addEventListener('resize', handleResize);
-    return () => window.removeEventListener('resize', handleResize);
-  }, []);
-
-  const isSmallMobile = viewportWidth <= 380;
-  const isMobile = viewportWidth <= 640;
-
-  // Responsive base sizes: 34px for ultra-compact, 38px for mobile, 46px for desktop
-  const baseSize = isSmallMobile ? 34 : isMobile ? 38 : 46;
-  const targetMaxSize = isMobile ? baseSize : 68;
 
   // Measure distance from mouse to card center
   const distance = useTransform(mouseX, (val) => {
-    if (isMobile) return Infinity; // Disable mouse tracking magnification on mobile/touch
     const bounds = cardRef.current?.getBoundingClientRect() ?? { x: 0, width: 0 };
     return val - (bounds.x + bounds.width / 2);
   });
 
-  // Magnification curve: desktop scales 46px -> 68px, mobile stays stable and neat
-  const widthSync = useTransform(distance, [-130, 0, 130], [baseSize, targetMaxSize, baseSize]);
-  const width = useSpring(widthSync, { mass: 0.1, stiffness: 220, damping: 15 });
+  // Smooth magnification curve: base 46px up to 70px when cursor approaches
+  const widthSync = useTransform(distance, [-130, 0, 130], [46, 70, 46]);
+  const width = useSpring(widthSync, { mass: 0.1, stiffness: 200, damping: 14 });
 
   return (
     <div
       className="dock-item-wrapper"
-      onMouseEnter={() => !isMobile && setHoveredCard(true)}
+      onMouseEnter={() => setHoveredCard(true)}
       onMouseLeave={() => setHoveredCard(false)}
     >
-      {/* Tooltip Label (Desktop only) */}
-      {label && hoveredCard && !isMobile && (
+      {/* Tooltip Label */}
+      {label && hoveredCard && (
         <motion.div
           className="dock-tooltip"
           initial={{ opacity: 0, y: 8, scale: 0.9 }}
@@ -86,7 +71,7 @@ export function DockCard({ children, onClick, label, isActive = false, id }) {
         </motion.div>
       )}
 
-      {/* Interactive Button */}
+      {/* Magnified Interactive Button */}
       <motion.button
         ref={cardRef}
         type="button"

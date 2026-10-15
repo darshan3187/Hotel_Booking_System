@@ -1,3 +1,4 @@
+/* macOS Style Floating Dock */
 .dock-container {
   position: fixed;
   bottom: 22px;
@@ -6,7 +7,7 @@
   align-items: flex-end;
   gap: 10px;
   padding: 8px 14px;
-  background: rgba(255, 255, 255, 0.90);
+  background: rgba(255, 255, 255, 0.88);
   backdrop-filter: blur(24px) saturate(180%);
   -webkit-backdrop-filter: blur(24px) saturate(180%);
   border: 1px solid rgba(220, 224, 230, 0.85);
@@ -16,16 +17,8 @@
     0 4px 12px rgba(15, 23, 42, 0.05),
     inset 0 1px 1px rgba(255, 255, 255, 0.9);
   z-index: 1050;
-  max-width: min(calc(100vw - 16px), 560px);
-  overflow-x: auto;
-  overflow-y: hidden;
-  scrollbar-width: none;
-  -webkit-overflow-scrolling: touch;
+  max-width: calc(100vw - 28px);
   user-select: none;
-}
-
-.dock-container::-webkit-scrollbar {
-  display: none;
 }
 
 .dock-item-wrapper {
@@ -34,7 +27,6 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-end;
-  flex-shrink: 0;
 }
 
 .dock-card {
@@ -50,7 +42,6 @@
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.04);
   transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
   overflow: hidden;
-  flex-shrink: 0;
 }
 
 .dock-card:hover {
@@ -116,7 +107,6 @@
   background: rgba(148, 163, 184, 0.35);
   margin: 0 3px 6px 3px;
   align-self: center;
-  flex-shrink: 0;
 }
 
 /* User avatar pill within the dock */
@@ -133,74 +123,10 @@
   font-weight: 600;
 }
 
-/* Tablet & Mobile Breakpoint (<= 640px) */
 @media (max-width: 640px) {
   .dock-container {
     bottom: 12px;
-    padding: 6px 8px;
-    gap: 4px;
-    border-radius: 20px;
-  }
-
-  .dock-card {
-    border-radius: 12px;
-  }
-
-  .dock-card svg {
-    width: 18px !important;
-    height: 18px !important;
-  }
-
-  .dock-avatar {
-    width: 22px;
-    height: 22px;
-    font-size: 11px;
-  }
-
-  .dock-divider {
-    height: 20px;
-    margin: 0 1px 4px 1px;
-  }
-
-  .dock-active-dot {
-    width: 3.5px;
-    height: 3.5px;
-    margin-top: 2px;
-  }
-}
-
-/* Ultra Compact Mobile (<= 380px: iPhone SE, Galaxy Mini) */
-@media (max-width: 380px) {
-  .dock-container {
-    bottom: 8px;
-    padding: 4px 6px;
-    gap: 3px;
-    border-radius: 18px;
-  }
-
-  .dock-card {
-    border-radius: 10px;
-  }
-
-  .dock-card svg {
-    width: 16px !important;
-    height: 16px !important;
-  }
-
-  .dock-avatar {
-    width: 20px;
-    height: 20px;
-    font-size: 10px;
-  }
-
-  .dock-divider {
-    height: 16px;
-    margin: 0 1px 3px 1px;
-  }
-
-  .dock-active-dot {
-    width: 3px;
-    height: 3px;
-    margin-top: 2px;
+    padding: 6px 10px;
+    gap: 6px;
   }
 }

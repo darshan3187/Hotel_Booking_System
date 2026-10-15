@@ -570,17 +570,3 @@
     font-size: 12px;
   }
 }
-
-@media (max-width: 380px) {
-  .contact-hero-title {
-    font-size: 26px !important;
-  }
-  .contact-concierge-card,
-  .contact-form-card {
-    padding: 18px 14px;
-    border-radius: 16px;
-  }
-  .contact-channel-item {
-    padding: 12px;
-  }
-}
